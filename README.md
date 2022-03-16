@@ -33,4 +33,7 @@ KURULUM aşamaları :
 3. eAsistKur klasörü içerisinde eAsistKue.exe dosyasını yönetici olarak çalıştırın (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
 4. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kısayol ikonu tıklayın veya \Masaüstü\eAsist\eAsist.exe yi çalıştırın.
 
-
+SİSTEM GEREKSİNİMLERİ:
+Windows 10 (yalnızca windows 10 64 bit de denendi. (Windows7 ve üzeri 32/64 bit için de uygundur ancak deneme yapılmadı.))
+Excel 2010 ve üzeri.
+CHROME 9 ve daha yeni sürümler. (daha eski Chrom browserlar için emailden destek isteyiniz.)
