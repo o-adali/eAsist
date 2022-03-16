@@ -12,7 +12,7 @@ Programın mevcut bazı özellikleri şunlardır:
 
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
-- Fatura şablonlarını Excel ile hazırla (Excelden veri al-ver)
+- Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekle)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekle)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekle)
