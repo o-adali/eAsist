@@ -18,7 +18,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - ihtiyaç duyulursa Kullanıcı sayısı yükseltilebilir.
 
 
-LİSANS hakkında:
+LİSANS HAKKINDA:
 
 eAsist v1.0.0 Beta sürüm kullanımı ücretsizdir.
 Kullanıcılardan programla ilgili deneyimlerini ve önerilerini paylaşmaları beklenmektedir.
