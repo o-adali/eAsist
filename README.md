@@ -37,3 +37,8 @@ SİSTEM GEREKSİNİMLERİ :
 - Windows 10 (yalnızca windows 10 64 bit de denendi. (Windows7 ve üzeri 32/64 bit için de uygundur ancak deneme yapılmadı.))
 - Excel 2010 ve üzeri.
 - CHROME 9 ve daha yeni sürümler. (daha eski Chrom browserlar için emailden destek isteyiniz.)
+
+KULLANIM HAKKINDA:
+
+Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
+
