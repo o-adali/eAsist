@@ -31,6 +31,7 @@ KURULUM aşamaları :
 2. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(Masaüstü\eAsistKur 'a çıkarmanız önerilir)
 3. eAsistKur klasörü içerisinde eAsistKue.exe dosyasını yönetici olarak çalıştırın (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
 4. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kısayol ikonu tıklayın veya \Masaüstü\eAsist\eAsist.exe yi çalıştırın.
+5. Önemli Not !!!  Sisteminizde Windows Defender yüklü ise eAsistKur.exe yi karantinaya alabilir. Defender'a eAsistKur için izin vermeniz gerekecektir.
 
 SİSTEM GEREKSİNİMLERİ :
 
