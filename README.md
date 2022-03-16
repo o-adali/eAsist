@@ -1,4 +1,4 @@
-#     eAsist v1.0.0   e-Belge yükleme asistanı
+#     eAsist v1.0.0   e-Belge yükleme asistanı           iletişim : ozcan.adali@yandex.com
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
 
@@ -27,11 +27,12 @@ eAsist v1.0.0 Beta sürüm kullanımı ücretsizdir.
 Kullanıcılardan programla ilgili deneyimlerini ve önerilerini paylaşmaları beklenmektedir.
 
 KURULUM aşamaları :
-1. Sisteminizde CHROME Browser önceden yüklü olmalıdır.
-2. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(Masaüstü\eAsistKur 'a çıkarmanız önerilir)
-3. eAsistKur klasörü içerisinde eAsistKue.exe dosyasını yönetici olarak çalıştırın (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
-4. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kısayol ikonu tıklayın veya \Masaüstü\eAsist\eAsist.exe yi çalıştırın.
-5. Önemli Not !!!  Sisteminizde Windows Defender yüklü ise eAsistKur.exe yi karantinaya alabilir. Defender'a eAsistKur için izin vermeniz gerekecektir.
+
+1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(Masaüstü\eAsistKur 'a çıkarmanız önerilir)
+2. eAsistKur klasörü içerisinde eAsistKur.exe dosyasını yönetici olarak çalıştırın (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
+3. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kısayol ikonu tıklayın veya \Masaüstü\eAsist\eAsist.exe yi çalıştırın.
+4. Önemli Not !!!  Sisteminizde Windows Defender yüklü ise eAsistKur.exe yi karantinaya alabilir. Defender'a eAsistKur için izin vermeniz gerekecektir.
+5. Sisteminizde CHROME Browser önceden yüklü olmalıdır.
 
 SİSTEM GEREKSİNİMLERİ :
 
@@ -42,4 +43,4 @@ SİSTEM GEREKSİNİMLERİ :
 KULLANIM HAKKINDA:
 
 Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
-
+iletişim : ozcan.adali@yandex.com
