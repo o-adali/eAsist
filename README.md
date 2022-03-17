@@ -1,4 +1,4 @@
-#     eAsist v1.0.0   e-Belge yükleme asistanı           
+#     eAsist v1.0.0   e-Belge yükleme asistanı     iletişim : easistfatura@gmail.com      
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
 
@@ -44,4 +44,4 @@ KULLANIM HAKKINDA:
 
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-- iletişim : ozcan.adali@yandex.com
+- iletişim : easistfatura@gmail.com 
