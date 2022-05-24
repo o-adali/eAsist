@@ -1,8 +1,9 @@
-#     eAsist v1.0.1   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com      
+#     eAsist v1.0.3   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com      
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
+Bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri için idealdir. Her ofis müşterisi için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.(VKN, eArşiv Portalı kullanıcı adı ve login pass)
 
-Bu versiyon sadece CHROME tarayıcı ile uyumludur.
+Bu versiyon sadece CHROME tarayıcı ile uyumludur. Kurulumdan önce sisteminizde CHROME'un güncel bir versiyonun (en az 9x. ) bulunmasına dikkat edin.
 
 Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
@@ -13,17 +14,21 @@ Programın mevcut bazı özellikleri şunlardır:
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
+- Proforma faturayı email gönder(Yandex mail ve gmail ile gönder böümü çalışmaktadır. Outlook ile gönder bölümü testleri sürüyor.)
+- Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir(İnteraktif VD'den excel listesi olarak)(Bu bölüm aktif çalışmaktadır.)
+- Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekle)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekle)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekle)
 - Çok satırlı faturaları hızlı yükle
+- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde update modülü otomatik çalışır, modülün talimatlarını takip edin.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur 20 farklı firma adına fatura düzenleme imkanı vardır.)
-- ihtiyaç duyulursa Kullanıcı sayısı yükseltilebilir.
+- ihtiyaç duyulursa Kullanıcı sayısı yükseltilebilir.(mail ile talepte bulunmanız yeterlidir.)
 
 
 LİSANS HAKKINDA:
 
-eAsist v1.0.0 Beta sürüm kullanımı ücretsizdir.
+eAsist v1.x.x Beta sürüm kullanımı ücretsizdir.
 Kullanıcılardan programla ilgili deneyimlerini ve önerilerini paylaşmaları beklenmektedir.
 
 KURULUM aşamaları :
