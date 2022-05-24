@@ -3,8 +3,7 @@
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
 Bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri için idealdir. Her ofis müşterisi için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.(VKN, eArşiv Portalı kullanıcı adı ve login pass)
 
-Bu versiyon sadece CHROME tarayıcı ile uyumludur. Kurulumdan önce sisteminizde CHROME'un güncel bir versiyonun (en az 9x. ) bulunmasına dikkat edin.
-
+Bu versiyon sadece CHROME tarayıcı ile uyumludur. 
 Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
 eArşiv Portal üzerinde hazırlayacağınız faturalarınızı eAsist ile önceden hazırlayıp tek tuş ile eArşiv portalınıza yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
