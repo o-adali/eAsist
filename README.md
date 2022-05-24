@@ -20,7 +20,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekle)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekle)
 - Çok satırlı faturaları hızlı yükle
-- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde update modülü otomatik çalışır, modülün talimatlarını takip edin.)
+- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde update modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur 20 farklı firma adına fatura düzenleme imkanı vardır.)
 - ihtiyaç duyulursa Kullanıcı sayısı yükseltilebilir.(mail ile talepte bulunmanız yeterlidir.)
 
