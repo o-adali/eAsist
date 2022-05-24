@@ -13,7 +13,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Proforma faturayı email gönder(Yandex mail ve gmail ile gönder böümü çalışmaktadır. Outlook ile gönder bölümü testleri sürüyor.)
+- Proforma faturayı email gönder(Yandex mail ve gmail ile gönderim mevcuttur. Outlook ile gönderme testleri sürüyor.)
 - Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir(İnteraktif VD'den excel listesi olarak)(Bu bölüm aktif çalışmaktadır.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekle)
