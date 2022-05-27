@@ -27,8 +27,8 @@ Programın mevcut bazı özellikleri şunlardır:
 
 LİSANS HAKKINDA:
 
-eAsist v1.x.x Beta sürüm kullanımı ücretsizdir.
-Kullanıcılardan programla ilgili deneyimlerini ve önerilerini paylaşmaları beklenmektedir.
+eAsist v1.x.x Beta sürümlerin kullanımı ücretsizdir.
+
 
 KURULUM aşamaları :
 
