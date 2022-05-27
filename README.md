@@ -48,5 +48,4 @@ KULLANIM HAKKINDA:
 
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-- iletişim : easistfatura@gmail.com 
-- Twitter: @eAsist_Fatura
+- iletişim ve Destek :  easistfatura@gmail.com    Twitter: @eAsist_Fatura
