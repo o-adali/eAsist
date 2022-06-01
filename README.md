@@ -8,12 +8,15 @@ Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar deste
 
 eArşiv Portal üzerinde hazırlayacağınız faturalarınızı eAsist ile önceden hazırlayıp tek tuş ile eArşiv portalınıza yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
 
+eAsist kullanıcılarının hiç bir verisini kopyalamaz, herhangi bir taraf ile paylaşmaz. 
+
+
 Programın mevcut bazı özellikleri şunlardır:
 
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Proforma faturayı email gönder(Yandex mail ve gmail ile gönderim mevcuttur. Outlook ile gönderme testleri sürüyor.)
+- Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.)
 - Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir(İnteraktif VD'den excel listesi olarak)(Bu bölüm aktif çalışmaktadır.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekle)
