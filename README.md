@@ -1,5 +1,7 @@
 #     eAsist v1.0.3   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com      Twitter: @eAsist_Fatura
 
+Kurulumu ve kullanımı son derece basittir.
+
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
 Bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri için idealdir. Her ofis müşterisi için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.(VKN, eArşiv Portalı kullanıcı adı ve login pass). eAsist FaturaEntegratörleri gibi çalışmaz, düzenlediğiniz faturaya ait verileri CHROME browser aracılığı ile eArşiv Portalına yükler. (Şu anki versiyonumuzda) Portal sayfasından çıkmadan faturanızın onay işlemini yapabilmektesiniz. eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılacaktır. 
 
