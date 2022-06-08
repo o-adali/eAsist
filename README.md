@@ -6,31 +6,32 @@ Bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri için 
 Bu versiyon sadece CHROME tarayıcı ile uyumludur. 
 Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eArşiv Portal üzerinde hazırlayacağınız faturalarınızı eAsist ile önceden hazırlayıp tek tuş ile eArşiv portalınıza yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
+eArşiv Portal üzerinde fatura hazırlamak yerine, faturalarınızı eAsist ile önceden hazırlayıp tek tuş ile eArşiv portalınıza hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
 
 eAsist kullanıcılarının hiç bir verisini kopyalamaz, herhangi bir taraf ile paylaşmaz. 
 
 
 Programın mevcut bazı özellikleri şunlardır:
-
+- eArşiv Portalına giriş ve sayfalara ulaşmada kolaylık sağlar. 
+- Şifre yazmadan linklere tıklamadan doğrudan fatura/taslak/iptal-itiraz gibi sayfalara tek tıkla erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.)
+- Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.Onaylanan faturayı indir ve gönder özelliği ilk yeni versiyona eklenecektir.)
 - Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir(İnteraktif VD'den excel listesi olarak)(Bu bölüm aktif çalışmaktadır.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
-- Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekle)
-- KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekle)
-- Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekle)
+- Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
+- KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekler)
+- Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle
-- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde update modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
-- Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur 20 farklı firma adına fatura düzenleme imkanı vardır.)
-- ihtiyaç duyulursa Kullanıcı sayısı yükseltilebilir.(mail ile talepte bulunmanız yeterlidir.)
+- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde upDate modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
+- Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur 20 farklı firma adına fatura düzenleme imkanı vardır. Yeni versiyonda 40 kullanıcı tanımlama imkanı bulunacaktır.)
+
 
 
 LİSANS HAKKINDA:
 
-eAsist v1.x.x Beta sürümlerin kullanımı ücretsizdir.
+eAsist v1.x.x sürümlerin kullanımı ücretsizdir.
 
 
 KURULUM aşamaları :
@@ -48,7 +49,9 @@ SİSTEM GEREKSİNİMLERİ :
 - CHROME 9 ve daha yeni sürümler. (daha eski Chrom browserlar için emailden destek isteyiniz.)
 
 KULLANIM HAKKINDA:
-
+ Kullanım şekline ait video :
+ https://youtu.be/anw48j5cFS0
+ 
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
 - iletişim ve Destek :  easistfatura@gmail.com    Twitter: @eAsist_Fatura
