@@ -1,5 +1,6 @@
 #     eAsist v1.0.3   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com      Twitter: @eAsist_Fatura
 
+Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Toplamı 439 kalem üründen oluşan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok satırlı fatura düzenleyen firmalara excelden veri alma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
 Kurulumu ve kullanımı son derece basittir.
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
