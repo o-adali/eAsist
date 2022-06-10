@@ -50,9 +50,11 @@ SİSTEM GEREKSİNİMLERİ :
 - Excel 2010 ve üzeri.
 - CHROME 9 ve daha yeni sürümler. (daha eski Chrom browserlar için emailden destek isteyiniz.)
 
+GÜNCELLEMELER :
+Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
+
 KULLANIM HAKKINDA:
- Kullanım şekline ait video :
- https://youtu.be/anw48j5cFS0
+ Kullanım şekline ait video :    https://youtu.be/anw48j5cFS0
  
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
