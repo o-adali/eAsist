@@ -12,7 +12,7 @@ eAsist FaturaEntegratörleri gibi çalışmaz, düzenlediğiniz faturaya ait ver
 Bu versiyon sadece CHROME tarayıcı ile uyumludur. 
 Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eArşiv Portalına fatura bilgilerini tuşlamak yerine, faturalarınızı eAsist ile (stok kartından veya Excel'den otomatik veri alarak) önceden hazırlayıp tek tuş ile eArşiv portalınıza hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
+eArşiv Portalına fatura bilgilerini tuşlamak yerine, faturalarınızı eAsist ile (stok kartından veya Excel'den otomatik veri alarak) önceden hazırlayıp tek tuş ile  portala hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
 
 eAsist kullanıcılarının hiç bir verisini kopyalamaz, herhangi bir taraf ile paylaşmaz. 
 
