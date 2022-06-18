@@ -50,9 +50,9 @@ KURULUM aşamaları :
 
 SİSTEM GEREKSİNİMLERİ :
 
-- Windows 10 (yalnızca windows 10 64 bit de denendi. (Windows7 ve üzeri 32/64 bit için de uygundur ancak deneme yapılmadı.))
+- Windows 10
 - Excel 2010 ve üzeri.
-- CHROME 9 ve daha yeni sürümler. (daha eski Chrom browserlar için emailden destek isteyiniz.)
+- CHROME 9 ve daha yeni sürümler.
 
 GÜNCELLEMELER :
 Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
