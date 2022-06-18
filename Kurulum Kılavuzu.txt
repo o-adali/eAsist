@@ -1,0 +1,43 @@
+eAsist 1.0.3 Beta kurulum aşamaları:
+
+Kuruluma başlamadan önce sisteminizde Chrome tarayıcı yüklü olmalıdır. 
+Eğer yoksa önce bir chrome tarayıcı yükleyin ve aşağıdaki adımları uygulayın.
+
+1- eAsistKur.zip paketini \eAsistKur klasörüne çıkarın,
+2- eAsistKur.exe dosyasına sağ tık yapın, menüden Yönetici Olarak Çalıştır'ı seçin,
+3- Kurulum sırasında soru mesajlarına yanıt verin.(EVET yanıtı vermeniz Önerilir),
+4- Kurulum sonrası zip paketi ve eAsistKur klasörünü silin,
+5- Program otomatik başlatırılır,
+6- Program başlayınca VERİ TABANI butonunu tıklayın, dosya içerisindeki açıklamaları uygulayın.
+7- Programı yeniden başlatın, 
+
+Programınız kuruldu, Veri Tabanına belittiğiniz firmalarınız için sistem klasörleri oluşturuldu.
+
+Artık Fatura düzenleyebilirsiniz.
+
+Bunun için sol üst seçim kutusundan bir firma seçin
+
+Orta üst seçim kutusundan bir fatura türü seçin
+
+Mal/Hizmet Ekle butonuna tıklayın
+
+Ürün hizmet Adına "TEST ÜRÜN" yazın, miktar/Birim/Birim fiyat bilgilerini girin ve FATURAYA EKLE butonunu tıklayın
+
+eArşiv butonuna tıklayın.
+
+Faturanız eArşiv Portal sitesine yüklenecek ve toplamları belirten bir mesaj kutusu görünecektir. 
+Bu mesaja TAMAM deyin.
+
+Ardından ETTN numarası ile fatura hazırlandı mesajı görünecektir. 
+Bu mesaja TAMAM deyin.
+
+Faturaya hiçbir işlem yapmadan Sistemden GÜVENLİ ÇIKIŞ yapar.
+
+TASLAK KAYDET butonuna tıklamadığınız sürece yüklediğiniz fatura portal hafızasından silinir. 
+Tekrar yüklemek için eArşiv butonunu tıklayın.
+
+Destek talebi için: easistfatura@gmail.com
+
+İşlerinizde kolaylıklar dileriz..
+eAsist ekibi
+
