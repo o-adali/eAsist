@@ -45,10 +45,9 @@ KURULUM aşamaları :
 1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(indirilenler\eAsistKur 'a çıkarmanız önerilir)
 2. eAsistKur klasörü içerisinde eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
 3. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum bitiminde eAsist otomatik başlatılır.
-4. Önemli Not !!!  Sisteminizde Windows Defender yüklü ise eAsistKur.exe yi karantinaya alabilir. Defender'a eAsistKur için izin vermeniz gerekecektir.
-5. Sisteminizde CHROME Browser önceden yüklü olmalıdır.
 
 SİSTEM GEREKSİNİMLERİ :
+
 Kurulum yapılacak bilgisayarda aşağıdaki uygulamalar bulunmalıdır:
 - Windows 10
 - Excel (2010 veya daha yenisi)
@@ -59,6 +58,8 @@ Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek isteme
 
 KULLANIM HAKKINDA:
  Kullanım şekline ait videoya youtube üzerinden ulaşabilirsiniz. Video linki:    https://youtu.be/anw48j5cFS0
+ 
+- Programı çalıştırın VERİ TABANI butonuna tıklayın, açılan EXCEL dosyası(DATA.xlsx) içerisinde kullanım için gerekli açıklamalar bulunmaktadır.
  
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
