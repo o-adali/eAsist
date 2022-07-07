@@ -24,42 +24,43 @@ Programın mevcut bazı özellikleri şunlardır:
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.Onaylanan faturayı indir ve gönder özelliği ilk yeni versiyona eklenecektir.)
-- Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir(İnteraktif VD'den excel listesi olarak)(Bu bölüm aktif çalışmaktadır.)
+- Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir (İnteraktif VD'den excel'e liste olarak indirmektedir.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
-- KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesapla ve dipnot kısmına otomatik ekler)
+- KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle
 - Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde upDate modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
-- Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur 20 farklı firma adına fatura düzenleme imkanı vardır. Yeni versiyonda 40 kullanıcı tanımlama imkanı bulunacaktır.)
+- Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur. )
 
 
 
 LİSANS HAKKINDA:
 
-eAsist v1.x.x sürümlerin kullanımı ücretsizdir.
+Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin kullanımı ücretsizdir.
 
 
 KURULUM aşamaları :
 
-1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(Masaüstü\eAsistKur 'a çıkarmanız önerilir)
-2. eAsistKur klasörü içerisinde eAsistKur.exe dosyasını yönetici olarak çalıştırın (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
-3. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kısayol ikonu tıklayın veya \Masaüstü\eAsist\eAsist.exe yi çalıştırın.
+1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(indirilenler\eAsistKur 'a çıkarmanız önerilir)
+2. eAsistKur klasörü içerisinde eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
+3. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum bitiminde eAsist otomatik başlatılır.
 4. Önemli Not !!!  Sisteminizde Windows Defender yüklü ise eAsistKur.exe yi karantinaya alabilir. Defender'a eAsistKur için izin vermeniz gerekecektir.
 5. Sisteminizde CHROME Browser önceden yüklü olmalıdır.
 
 SİSTEM GEREKSİNİMLERİ :
-
+Kurulum yapılacak bilgisayarda aşağıdaki uygulamalar bulunmalıdır:
 - Windows 10
-- Excel 2010 ve üzeri.
+- Excel (2010 veya daha yenisi)
 - CHROME 9 ve daha yeni sürümler.
 
 GÜNCELLEMELER :
 Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
 
 KULLANIM HAKKINDA:
- Kullanım şekline ait video :    https://youtu.be/anw48j5cFS0
+ Kullanım şekline ait videoya youtube üzerinden ulaşabilirsiniz. Video linki:    https://youtu.be/anw48j5cFS0
  
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-- iletişim ve Destek :  easistfatura@gmail.com    Twitter: @eAsist_Fatura
+- iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com    Twitter: @eAsist_Fatura
+saygılar...
