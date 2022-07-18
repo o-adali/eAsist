@@ -42,9 +42,10 @@ LİSANS HAKKINDA:
 
 KURULUM aşamaları :
 
-1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın.(indirilenler\eAsistKur 'a çıkarmanız önerilir)
-2. eAsistKur klasörü içerisinde eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
-3. Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum bitiminde eAsist otomatik başlatılır.
+1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın. (İndirilenler\eAsistKur klasörüne çıkarmanız önerilir)
+2. eAsistKur klasörü içerisindeki eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
+
+Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum bitiminde eAsist otomatik başlatılır.
 
 SİSTEM GEREKSİNİMLERİ :
 
