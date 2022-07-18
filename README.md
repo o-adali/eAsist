@@ -50,8 +50,8 @@ SİSTEM GEREKSİNİMLERİ :
 
 Kurulum yapılacak bilgisayarda aşağıdaki uygulamalar bulunmalıdır:
 - Windows 10
-- Excel (2010 veya daha yenisi)
-- CHROME 9 ve daha yeni sürümler.
+- Excel 2010 veya daha yeni bir sürüm
+- CHROME   9 veya daha yeni bir sürüm
 
 GÜNCELLEMELER :
 Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
