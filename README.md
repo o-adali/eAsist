@@ -1,4 +1,4 @@
-#     eAsist v1.0.3   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com      Twitter: @eAsist_Fatura
+#     eAsist v1.0.3   e-Belge yükleme asistanı              İletişim: easistfatura@gmail.com  
 
 Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok satırlı fatura düzenleyen firmalara Excel'den veri alma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
 Kurulumu ve kullanımı son derece basittir.
@@ -65,5 +65,5 @@ KULLANIM HAKKINDA:
  
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-- iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com    Twitter: @eAsist_Fatura
+- iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com 
 saygılar...
