@@ -8,7 +8,7 @@ Kurulumu ve kullanımı son derece basittir.
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
 
-eArşiv Portalına giriş yapıp fatura içeriğini portala tuşlamak yerine, faturalarınızı eAsist ile (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
+eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedebilir, onaylama işlemine portal üzerinden devam edebilirsiniz.
 
 eAsist FaturaEntegratörleri gibi çalışmaz, eAsist'le excelden veri çekerek ve ya stok kartı kullanarak düzenlediğiniz faturayı tek tuşla CHROME'u başlatır ve eArşiv Portalına otomatik yükler. 
 
@@ -26,7 +26,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.Onaylanan faturayı indir ve gönder özelliği ilk yeni versiyona eklenecektir.)
-- Firmanın Gelen e-Arşiv Faturalarını aylık dönemler halinde indir (İnteraktif VD'den excel'e liste olarak indirmektedir.)
+- Gelen e-Arşiv Faturalarını aylık dönemler halinde indir (İnteraktif V.D.'nden Excel'e listesi olarak indirmektedir.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
