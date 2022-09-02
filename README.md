@@ -26,7 +26,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - Müşteri Kartı yönetimi(Müşteri kartlarını önceden tanımla-kullan)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır.Onaylanan faturayı indir ve gönder özelliği ilk yeni versiyona eklenecektir.)
-- Gelen e-Arşiv Faturalarını aylık dönemler halinde indir (İnteraktif V.D.'nden Excel'e listesi olarak indirmektedir.)
+- Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden indirmektedir.)
 - Kesilen faturayı muhasebeye entegre et(Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
