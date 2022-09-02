@@ -7,16 +7,16 @@
 Kurulumu ve kullanımı son derece basittir.
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
-Bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri için idealdir. Her ofis müşterisi için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (VKN, eArşiv Portalı kullanıcı adı ve şifresi).
 
-eAsist FaturaEntegratörleri gibi çalışmaz, programda excelden veri çekerek ve ya stok kartı kullanarak düzenlediğiniz faturayı tek tuşla CHROME'u başlatır ve eArşiv Portalına otomatik yükler. Siz portaldan çıkış yapmadıkça portal üzerinde bekler. Dilerseniz yüklediğiniz faturayı taslak olarak kaydedip, onay aşamasına geçebilirsiniz. eAsist ile portala erişim kolay bir hale gelmektedir. İşlem yapılacak firmanızı seçin ve portal butonlarından birisine tıklayın. Sizi doğrudan ilgili sayfaya götürerek zaman kazandırır. 
+eArşiv Portalına giriş yapıp fatura içeriğini portala tuşlamak yerine, faturalarınızı eAsist ile (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
+
+eAsist FaturaEntegratörleri gibi çalışmaz, eAsist'le excelden veri çekerek ve ya stok kartı kullanarak düzenlediğiniz faturayı tek tuşla CHROME'u başlatır ve eArşiv Portalına otomatik yükler. 
 
 (eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
 
-Bu versiyon sadece CHROME tarayıcı ile uyumludur. 
-Bu versiyonda sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
+Bu versiyon sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eArşiv Portalına fatura bilgilerini tuşlamak yerine, faturalarınızı eAsist ile (stok kartından veya Excel'den otomatik veri alarak) önceden hazırlayıp tek tuş ile  portala hızlıca yükleyebilir, onaylama süreçlerinize portal üzerinden devam edebilirsiniz.
+eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (VKN, eArşiv Portalı kullanıcı adı ve şifresi).
 
 Programın mevcut bazı özellikleri şunlardır:
 
@@ -34,8 +34,6 @@ Programın mevcut bazı özellikleri şunlardır:
 - Çok satırlı faturaları hızlı yükle
 - Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde upDate modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur. )
-
-
 
 LİSANS HAKKINDA:
 
@@ -68,4 +66,4 @@ KULLANIM HAKKINDA:
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
 - iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com 
-saygılar...
+
