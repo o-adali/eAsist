@@ -2,7 +2,8 @@
 
 İletişim: easistfatura@gmail.com  
 
-Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok satırlı fatura düzenleyen firmalara Excel'den veri alma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
+Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
+
 Kurulumu ve kullanımı son derece basittir.
 
 eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
@@ -20,6 +21,7 @@ eArşiv Portalına fatura bilgilerini tuşlamak yerine, faturalarınızı eAsist
 eAsist kullanıcılarının hiç bir verisini kopyalamaz, herhangi bir taraf ile paylaşmaz. 
 
 Programın mevcut bazı özellikleri şunlardır:
+
 - eArşiv Portalına giriş ve sayfalara ulaşmada kolaylık sağlar. 
 - Şifre yazmadan linklere tıklamadan doğrudan fatura/taslak/iptal-itiraz gibi sayfalara tek tıkla erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
