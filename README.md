@@ -16,7 +16,7 @@ eAsist FaturaEntegratörleri gibi çalışmaz, eAsist'le excelden veri çekerek 
 
 Bu versiyon sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için veri tabanında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (VKN, eArşiv Portalı kullanıcı adı ve şifresi).
+eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA xlxs dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. Kullanım kılavuzu dosyanın içerisindedir.)
 
 Programın mevcut bazı özellikleri şunlardır:
 
