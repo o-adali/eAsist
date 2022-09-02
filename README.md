@@ -49,10 +49,10 @@ Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum b
 
 SİSTEM GEREKSİNİMLERİ :
 
-Kurulum yapılacak bilgisayarda aşağıdaki uygulamalar bulunmalıdır:
-- Windows 10
-- Excel 2010 veya daha yeni bir sürüm
-- CHROME   9 veya daha yeni bir sürüm
+Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır:
+- Windows 10 ve üzeri
+- Excel 2010 ve üzeri
+- CHROME   9 ve üzeri
 
 GÜNCELLEMELER :
 Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
