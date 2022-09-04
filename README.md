@@ -1,4 +1,4 @@
-#     eAsist v1.0.3   e-Belge yükleme asistanı      
+#     eAsist v1.0.6   e-Belge yükleme asistanı      
 
 İletişim: easistfatura@gmail.com  
 
