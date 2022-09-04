@@ -37,7 +37,7 @@ Programın mevcut bazı özellikleri şunlardır:
 
 LİSANS HAKKINDA:
 
-Şu anki sürüm v1.0.3 tür.
+Şu anki sürüm v1.0.6 dır.
     Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin(v1.9.9'a kadar) kullanımı ücretsizdir.
 
 KURULUM aşamaları :
