@@ -32,8 +32,8 @@ Programın mevcut bazı özellikleri şunlardır:
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle
-- Otomatik güncelleme özelliği (aktif çalışmaktadır, yeni güncelleme geldiğinde upDate modülü otomatik çalışır, modülün talimatlarını takip ediniz.)
-- Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur. )
+- Otomatik güncelleme özelliği (Bu özelliğe v1.0.6 ile ara verildi. Güncelleme var ise başlatma anında mesaj penceresi ile duyurulmaktadır)
+-  Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
 İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.0.6 dır.
