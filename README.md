@@ -10,11 +10,11 @@ eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Por
 
 eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve size gelen EARŞİV faturalarını indirebilirsiniz.
 
-eAsist FaturaEntegratörleri gibi çalışmaz, eAsist'le excelden veri çekerek ve ya stok kartı kullanarak düzenlediğiniz faturayı tek tuşla EARŞİV Portalına yükler.
+eAsist bir robot yazılımdır, Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek ve ya stok kartı/müşteri kartı kullanarak hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. 
 
 (eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
 
-Bu versiyon sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
+1.0.6 versiyonumuz sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
 eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. Kullanım kılavuzu bu dosyanın içerisindedir.)
 
@@ -36,16 +36,16 @@ Programın mevcut bazı özellikleri şunlardır:
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine uygundur. )
 
 LİSANS HAKKINDA:
+İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.0.6 dır.
+Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin(v1.9.9'a kadar) kullanımının ücretsiz olması planlanmaktadır.
 
-Şu anki sürüm v1.0.6 dır.
-    Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin(v1.9.9'a kadar) kullanımı ücretsizdir.
-
-KURULUM aşamaları :
+KURULUM AŞAMALARI :
 
 1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın. (İndirilenler\eAsistKur klasörüne çıkarmanız önerilir)
 2. eAsistKur klasörü içerisindeki eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
 
-Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. Kurulum bitiminde eAsist otomatik başlatılır.
+Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. 
+Kurulum bitiminde eAsist otomatik başlatılır.
 
 SİSTEM GEREKSİNİMLERİ :
 
@@ -55,9 +55,11 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 - CHROME   9 ve üzeri
 
 GÜNCELLEMELER :
-Program yeni versiyonu otomatik indirmektedir. Güncelleme için beklemek istemeyen kullanıcıların burada yer alan eAsistKur.zip dosyasını(daima en güncel versiyonu içerir) indirip içerisindeki eAsist.exe 'yi (masaüstü\eAsist\easist.exe)  klasördeki yerine kopyalaması yeterlidir.
+
+v1.0.6 ile şimdilik Otomatik güncelleme hizmetine ara verildi. Yeni versiyon yayınlandığında program açılışta bunu size duyuracaktır. Güncellemek için yeni eAsist.exe 'yi (masaüstü\eAsist\eAsist.exe)  klasöründeki yerine kopyalamak yeterlidir.
 
 KULLANIM HAKKINDA:
+
  Kullanım şekline ait videoya youtube üzerinden ulaşabilirsiniz. 
  Video linki:    https://youtu.be/anw48j5cFS0
  
@@ -66,4 +68,9 @@ KULLANIM HAKKINDA:
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
 - iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com 
-
+GÜVENLİĞİNİZ HAKKINDA :
+Kimsenin özel bilgisine ilgimiz ve ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, başkaları ile paylaşmaz. Parasını ödeyip Microsoft Yayımcı Lisansı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı- Tehlikeli Olabilir" uyarısı vermektedir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmez. eAsistUpdate.exe (güncelleme uygulaması) ise Antivirüslerce bir Downloader olarak görülmekte olup, tehlikeli addedilmektedir. Bu nedenle
+v1.0.6 versiyonu ile artık manuel güncellemeye geçildi, eAsistUpdate.exe 'ye ihtiyaç kalmadı. Hiç bir zararı olmayan bu uygulamayı Antivirüsünüz henüz silmedi ise 
+siz kendiniz de silebilirsiniz.
+İşlerinize kolaylık getirmesi dileğiyle
+Saygılar sunarız.
