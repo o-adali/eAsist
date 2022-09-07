@@ -34,6 +34,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle
 - Otomatik güncelleme özelliği (Bu özelliğe v1.0.6 ile ara verildi. Güncelleme var ise başlatma anında mesaj penceresi ile duyurulmaktadır)
+- İnternet Radyosu (v106 ile eklendi. Şimdilik 4 sabit radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda kırmızı renkli herhangi bir alana tıklayın.)
 -  Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
