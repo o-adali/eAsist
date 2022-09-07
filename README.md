@@ -1,6 +1,7 @@
-#     eAsist v1.0.6   e-Belge yükleme asistanı      
+#     eAsist v1.0.6   e-Belge yükleme asistanı   
 
-İletişim: easistfatura@gmail.com  
+ÖNEMLİ DUYURU : eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz........!!!
+
 
 Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
 
@@ -67,10 +68,11 @@ KULLANIM HAKKINDA:
  
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-- iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com 
 GÜVENLİĞİNİZ HAKKINDA :
 Kimsenin özel bilgisine ilgimiz ve ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, başkaları ile paylaşmaz. Parasını ödeyip Microsoft Yayımcı Lisansı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı- Tehlikeli Olabilir" uyarısı vermektedir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmez. eAsistUpdate.exe (güncelleme uygulaması) ise Antivirüslerce bir Downloader olarak görülmekte olup, tehlikeli addedilmektedir. Bu nedenle
 v1.0.6 versiyonu ile artık manuel güncellemeye geçildi, eAsistUpdate.exe 'ye ihtiyaç kalmadı. Hiç bir zararı olmayan bu uygulamayı Antivirüsünüz henüz silmedi ise 
 siz kendiniz de silebilirsiniz.
+
+- iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com , ayrıca Logo üzerindeki GSM numaramdan bana ulaşabilirsiniz.
 İşlerinize kolaylık getirmesi dileğiyle
-Saygılar sunarız.
+Saygılar...
