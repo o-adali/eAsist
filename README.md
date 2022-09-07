@@ -74,4 +74,4 @@ v1.0.6 versiyonu ile artık manuel güncellemeye geçildi, eAsistUpdate.exe 'ye 
 siz kendiniz de silebilirsiniz.
 
 - iletişim ve Destek için lütfen çekinmeden yazın :  easistfatura@gmail.com , ayrıca Logo üzerindeki GSM numaramdan bana ulaşabilirsiniz.
-İşlerinize kolaylık getirmesi dileğiyle, saygılarımla...
+İşlerinize kolaylık getirmesini diler, saygılar sunarım.
