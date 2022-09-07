@@ -11,7 +11,7 @@ eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Por
 
 eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve size gelen EARŞİV faturalarını indirebilirsiniz.
 
-eAsist bir robot yazılımdır, Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek ve ya stok kartı/müşteri kartı kullanarak hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. 
+eAsist bir robot yazılımdır, Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek ve ya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. 
 
 (eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
 
