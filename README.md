@@ -72,7 +72,7 @@ KULLANIM HAKKINDA:
 GÜVENLİĞİNİZ HAKKINDA :
 Kimsenin özel bilgisine ilgimiz ve ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, başkaları ile paylaşmaz. Parasını ödeyip Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı- Tehlikeli Olabilir" uyarısı vermektedir.  Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir sertifikanın olması Window 'su ve Tarayıcıyı sessizleştirir. eAsistUpdate.exe (güncelleme uygulaması) ise Antivirüslerce bir Downloader olarak görülmekte olup, tehlikeli addedilmektedir. Bu nedenle
 v1.0.6 versiyonu ile artık manuel güncellemeye geçildi, eAsistUpdate.exe 'ye ihtiyaç kalmadı. Hiç bir zararı olmayan bu uygulamayı Antivirüsünüz henüz silmedi ise 
-siz kendiniz de silebilirsiniz. Ayrıca gerek ilk kurulum öncesi zip paketi indirirken, gerek güncel eAsist.EXE dosyasını indiriken tarayıcınız güvenlik uyarısı verir ve dosyayı kaydetmek için sizden onay ister. Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın bize bir faydası, size de bir zararı olmadığını bilmenizi isterim.
+siz kendiniz de silebilirsiniz. Ayrıca gerek ilk kurulum öncesi zip paketi, gerek güncel eAsist.EXE dosyasını indirirken tarayıcınız güvenlik uyarısı verir ve dosyayı kaydetmek için sizden onay ister. Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın bize bir faydası, size de bir zararı olmadığını bilmenizi isterim.
 
 - iletişim ve Destek ihtiyacınız olursa çekinmeden yazın:  easistfatura@gmail.com , ayrıca Logo üzerindeki GSM numaramdan bana ulaşabilirsiniz.
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
