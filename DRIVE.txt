@@ -1,1 +1,1 @@
-||1|103|0|Merhaba; duyuru sistemimiz devreye girdi. Program ve mevzuatla ilgili duyurularimizi acilis sirasinda size iletecegiz. Faydali olmasi dilegiyle iyi calismalar dileriz. Saygilarimizla - eAsist Ekibi -*|
+||1|103|0|V 1.0.9. yayinlandi, duyurular bolumu yeniden düzenlendi, Maliye sunucusundaki gecikmelerin yol actigi Run-Time hatasi giderildi, artik fatura yukleme durumu ve suresi sag tarafta bulunan Progress Bar ile gosteriliyor...*|
