@@ -1,1 +1,1 @@
-||1|103|0|-V 1.0.9. yayinlandi -duyurular bolumu yeniden düzenlendi -Maliye sunucusundaki gecikmelerin yol actigi Run-Time hatasi giderildi -artik fatura yukleme durumu ve suresi sag tarafta bulunan Progress Bar ile gosteriliyor...*|
+||1|103|0|[001-09/09/2022] eAsist V 1.0.9. yayinlandi -duyurular bolumu yeniden duzenlendi -Maliye sunucusundaki gecikmelerin yol actigi Run-Time hatasi giderildi -artik fatura yukleme durumu ve suresi sag tarafta bulunan Progress Bar ile gosteriliyor...*|
