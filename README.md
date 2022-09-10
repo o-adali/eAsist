@@ -1,8 +1,8 @@
-#     eAsist v1.0.9   e-Belge yükleme asistanı   
+#     eAsist v1.0.9    e-Belge yükleme asistanı   
 
       ÖNEMLİ DUYURU  :
       
-      ** eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ........!!!!! **
+      eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ........!!!!!
 
 
 Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
