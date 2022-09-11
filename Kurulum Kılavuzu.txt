@@ -18,7 +18,8 @@ Artık Fatura düzenleyebilirsiniz.
 
 Bunun için sol üst seçim kutusundan fatura kesecek olan firmanızı seçin
 
-Orta üst seçim kutusundan bir fatura türü seçin ( EXCEL KAYDET butonunu tıklayın, oluşan excel şablon dosyasını seçip (üzerine tıkla mavileşsin) EXCEL AÇ'a tıklayın, bu şablona veri girip Exceli kaydedin. Sonra EXCEL YÜKLE butonunu tıklayın. Excel dosyasına girdiğiniz veriler, Fatura Satırlarına aktarılacaktır. EARŞİV butonuna tıklayın ve portala yükleyin.)
+Orta üst seçim kutusundan bir fatura türü seçin ( EXCEL KAYDET butonunu tıklayın, oluşan excel şablon dosyasını seçip (üzerine tıkla mavileşsin) EXCEL AÇ'a tıklayın
+bu şablona veri girip Exceli kaydedin. Sonra EXCEL YÜKLE butonunu tıklayın. Excel dosyasına girdiğiniz veriler, Fatura Satırlarına aktarılacaktır. EARŞİV butonuna tıklayın ve portala yükleyin.)
 
 Stok Kartı ile fatura kesmek için ise aşağıdaki adımları uygulayın.
 
