@@ -36,7 +36,7 @@ Bu mesaja TAMAM deyin.
 
 Faturaya hiçbir işlem yapmadan Sistemden GÜVENLİ ÇIKIŞ yapar.
 
-Portal üzerinde faturanız yükli iken Portal'ın TASLAK KAYDET butonuna tıklamadan Çıkış yaparsanız yüklediğiniz faturalar portala kaydedilmemiş olur. 
+Portal üzerinde faturanız yüklü iken Portal'ın TASLAK KAYDET butonuna tıklamadan Çıkış yaparsanız yüklediğiniz faturalar portala kaydedilmemiş olur. 
 Aynı faturayı tekrar yüklemek için eArşiv butonuna tekrar tıklayın.
 
 Destek talebi için: easistfatura@gmail.com
