@@ -1,7 +1,10 @@
 eAsist 1.0.9 Beta kurulum aşamaları:
 
-Kuruluma başlamadan önce sisteminizde Chrome tarayıcı yüklü olmalıdır. 
-Eğer yoksa önce bir CHROME tarayıcı yükleyin ve aşağıdaki adımları uygulayın.
+Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
+ - CHROME tarayıcı (90.x veya daha yenisi) 
+ - EXCEL (2010 veya daha yenisi MsOffice)
+ 
+Bunlar varsa aşağıdaki adımları uygulayın.
 
 1- eAsistKur.zip paketini \eAsistKur klasörüne çıkarın,
 2- Klasöre çıkardığınız dosyalar içerisindeki eAsistKur.exe dosyasına sağ tık yapın, menüden Yönetici Olarak Çalıştır'ı seçin,
