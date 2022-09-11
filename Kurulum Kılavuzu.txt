@@ -1,23 +1,26 @@
-eAsist 1.0.3 Beta kurulum aşamaları:
+eAsist 1.0.9 Beta kurulum aşamaları:
 
 Kuruluma başlamadan önce sisteminizde Chrome tarayıcı yüklü olmalıdır. 
-Eğer yoksa önce bir chrome tarayıcı yükleyin ve aşağıdaki adımları uygulayın.
+Eğer yoksa önce bir CHROME tarayıcı yükleyin ve aşağıdaki adımları uygulayın.
 
 1- eAsistKur.zip paketini \eAsistKur klasörüne çıkarın,
-2- eAsistKur.exe dosyasına sağ tık yapın, menüden Yönetici Olarak Çalıştır'ı seçin,
+2- Klasöre çıkardığınız dosyalar içerisindeki eAsistKur.exe dosyasına sağ tık yapın, menüden Yönetici Olarak Çalıştır'ı seçin,
 3- Kurulum sırasında soru mesajlarına yanıt verin.(EVET yanıtı vermeniz Önerilir),
-4- Kurulum sonrası zip paketi ve eAsistKur klasörünü silin,
+4- Kur masa üzerine eAsist klasörü oluşturur ve gerekli dosyaları buraya taşır.
 5- Program otomatik başlatırılır,
 6- Program başlayınca VERİ TABANI butonunu tıklayın, dosya içerisindeki açıklamaları uygulayın.
 7- Programı yeniden başlatın, 
 
 Programınız kuruldu, Veri Tabanına belittiğiniz firmalarınız için sistem klasörleri oluşturuldu.
+(Kurulum sonrası ZİP paketi ve oluşturduğunuz eAsistKur klasörünü silin,)
 
 Artık Fatura düzenleyebilirsiniz.
 
 Bunun için sol üst seçim kutusundan bir firma seçin
 
-Orta üst seçim kutusundan bir fatura türü seçin
+Orta üst seçim kutusundan bir fatura türü seçin ( Excel Kaydet butonunu tıklayın, oluşan excel şablon dosyasını seçip Excel Aç'a tıklayın, bu şablona veri girip Exceli kaydedin. Sonra Excel Yükle butonunu tıklayn, Excel dosyasına girdiğiniz veriler, Fatura Satırlarına aktarılacaktır. EARŞİV butonuna tıklayın ve portala yükleyin.)
+
+Stok Kartı ile fatura kesmek için ise aşağıdaki adımları uygulayın.
 
 Mal/Hizmet Ekle butonuna tıklayın
 
@@ -33,8 +36,8 @@ Bu mesaja TAMAM deyin.
 
 Faturaya hiçbir işlem yapmadan Sistemden GÜVENLİ ÇIKIŞ yapar.
 
-TASLAK KAYDET butonuna tıklamadığınız sürece yüklediğiniz fatura portal hafızasından silinir. 
-Tekrar yüklemek için eArşiv butonunu tıklayın.
+Portal üzerinde faturanız yükli iken Portal'ın TASLAK KAYDET butonuna tıklamadan Çıkış yaparsanız yüklediğiniz faturalar portala kaydedilmemiş olur. 
+Aynı faturayı tekrar yüklemek için eArşiv butonuna tekrar tıklayın.
 
 Destek talebi için: easistfatura@gmail.com
 
