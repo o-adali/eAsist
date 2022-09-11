@@ -11,7 +11,7 @@ Bunlar varsa aşağıdaki adımları uygulayın.
 3- Kurulum sırasında soru mesajlarına yanıt verin.(EVET yanıtı vermeniz Önerilir),
 4- Kur masa üzerine eAsist klasörü oluşturur ve gerekli dosyaları buraya taşır.
 5- Program otomatik başlatırılır,
-6- Program başlayınca VERİ TABANI butonunu tıklayın, dosya içerisindeki açıklamaları uygulayın.
+6- Program başlayınca VERİ TABANI butonunu tıklayın, açılacak olan EXCEL dosyasının içerisindeki açıklamaları uygulayın.
 7- Programı yeniden başlatın, 
 
 Programınız kuruldu, Veri Tabanına belittiğiniz firmalarınız için sistem klasörleri oluşturuldu.
