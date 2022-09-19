@@ -1,4 +1,4 @@
-#     eAsist v1.0.9    e-Belge yükleme asistanı   
+#     eAsist v1.1.5    e-Belge yükleme asistanı   
 
       ÖNEMLİ DUYURU  :
       
@@ -73,7 +73,7 @@ KULLANIM HAKKINDA:
 GÜVENLİĞİNİZ HAKKINDA :
 
 Kimsenin özel veya genel bilgisine ilgimiz ve ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı vermektedir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak ücreti ödenmiş bir sertifikanın olması Window'su ve Tarayıcıyı sessizleştirir. Antivirüslerce karantinaya alınmakta olan eAsistUpdate.exe 'yi eski sürümlerde otomatik güncelleme yapması için kullanıyorduk. 1.0.6 sürümünden itibaren manuel güncellemeye geçildi, eAsistUpdate.exe 'ye ihtiyaç kalmadı. Hiç bir zararı olmayan bu uygulamayı Antivirüsünüz henüz silmedi ise 
-siz kendiniz de silebilirsiniz. Ayrıca gerek ilk kurulum öncesi zip paketi, gerek güncel eAsist.EXE dosyasını indirirken tarayıcınız güvenlik uyarısı verir ve dosyayı kaydetmek için sizden onay ister. Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın bize bir faydası, size de bir zararı olmadığını bilmenizi isterim.
+siz kendiniz de silebilirsiniz. Ayrıca gerek ilk kurulum öncesi zip paketi, gerek güncel eAsist.EXE dosyasını indirirken tarayıcınız güvenlik uyarısı verir ve dosyayı kaydetmek için sizden onay ister. Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın size bir zararı olmadığını bilmenizi isterim.
 
 - iletişim ve Destek ihtiyacınız olursa çekinmeden yazın:  easistfatura@gmail.com , ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
   İşlerinize kolaylık getirmesini diler, saygılar sunarım.
