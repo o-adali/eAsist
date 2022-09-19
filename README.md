@@ -41,7 +41,7 @@ Programın mevcut bazı özellikleri şunlardır:
 -  Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
-İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.0.9 dur.
+İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.1.5 dir.
 Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin(v1.9.9'a kadar) kullanımının ücretsiz olması planlanmaktadır.
 
 KURULUM AŞAMALARI :
