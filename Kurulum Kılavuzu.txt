@@ -1,6 +1,7 @@
-eAsist 1.0.9 Beta kurulum aşamaları:
+eAsist 1.1.5 Beta kurulum aşamaları:
 
    Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
+   - WINDOWS 10 veya 11
    - CHROME tarayıcı (90.x veya daha yenisi) 
    - EXCEL (2010 veya daha yenisi MsOffice)
  
