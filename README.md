@@ -27,9 +27,10 @@ Programın mevcut bazı özellikleri şunlardır:
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri kartlarını önceden tanımla-kullan)
-- Vergi numarasından mükellef adı VD sorgula (Bu özellik Maliyenin portalda yaptığı bir değişiklik neticesinde şu an kullanılamıyor.) 
+- Vergi numarasından mükellef adı VD sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
 - Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Proforma faturayı email gönder(Yandex mail ve Outlook ile gönderim imkanı vardır. Onaylanan faturayı indir ve gönder özelliği yeni versiyona eklenecektir.)
+- Proforma faturayı email gönder (Yandex mail ve Outlook ile gönderim imkanı vardır.)
+- Onaylanmış faturaları indir ve gönder (Yandex mail ve Outlook ile gönderim imkanı vardır.)
 - Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden Excel Listesi olarak indirmektedir.)
 - Kesilen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait kesmiş olduğu faturalarını eArşiv Portalından indirir ve kullanışlı olarak yeniden adlandırır.)
 - Kesilen faturayı muhasebeye entegre et (Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
@@ -66,9 +67,9 @@ v1.0.6 dan itibaren Otomatik Güncelleme hizmetine ara verildi. Artık Yeni bir 
 
 KULLANIM HAKKINDA:
 
-- Kullanım şekline ait videoya youtube üzerinden ulaşabilirsiniz.  
+- Kullanım şekline ait videolara youtube üzerinden ulaşabilirsiniz.  
   Video linki:    https://youtu.be/anw48j5cFS0
-- Programı çalıştırın VERİ TABANI butonuna tıklayın, açılan EXCEL dosyası(DATA.xlsx) içerisinde kullanım için gerekli açıklamalar bulunmaktadır.
+- Programı çalıştırın AYARLAR butonuna tıklayın, açılan EXCEL dosyası(DATA.xlsx) içerisinde kullanım için gerekli açıklamalar bulunmaktadır.
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
 GÜVENLİĞİNİZ HAKKINDA :
