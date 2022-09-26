@@ -17,7 +17,7 @@ eAsist bir robot yazılımdır, Chrome tarayıcı ile portalda yaptığınız i�
 
 (eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
 
-1.1.5 versiyonumuz sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
+1.2.6 versiyonumuz sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
 eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. Kullanım kılavuzu bu DATAxlsx'in içerisindedir.)
 
@@ -43,7 +43,7 @@ Programın mevcut bazı özellikleri şunlardır:
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
-İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.1.5 dir.
+İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Şu anki sürüm v1.2.6 dır.
 Versiyonu v1.x.x ile başlayan tüm eAsist programı sürümlerinin(v1.9.9'a kadar) kullanımının ücretsiz olması planlanmaktadır.
 
 KURULUM AŞAMALARI :
