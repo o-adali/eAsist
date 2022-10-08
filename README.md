@@ -9,7 +9,7 @@
 
 Kurulumu ve kullanımı son derece basittir.
 
-eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" programıdır.
+eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" ve "Fatura indirme" programıdır.
 
 eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve size gelen EARŞİV faturalarını indirebilirsiniz.
 
