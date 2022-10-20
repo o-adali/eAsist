@@ -2,24 +2,25 @@
 
       ÖNEMLİ DUYURU  :
       
-      eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ........!!!!!
-
+eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme süreli (Trial) lisanslıdır. 1.2.6 öncesi versiyonların süresi 31/12/2022'de 1.2.6 sonrası ise 10/04/2023     tarihinde dolacaktır. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
+         
+      eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ........!!!
 
 Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
 
-Kurulumu ve kullanımı son derece basittir.
+Kurulumu ve kullanımı son derece basit ve güvenlidir.
 
-eAsist uygulaması Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" ve "Fatura indirme" programıdır.
+eAsist uygulaması, Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura yükleme" - "Fatura indirme" ve      "e-belge yönetimi" programıdır. (ERP ye dönüşecek şekilde geliştirilmektedir.)
 
-eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve size gelen EARŞİV faturalarını indirebilirsiniz.
+eAsist kullanarak eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve gelen EARŞİV faturalarınızı indirebilirsiniz. Gerek kesilen (GİDEN) gerek alınan (GELEN) faturalarınızı çeşitli şekillerde yönetebilirsiniz.
 
-eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek veya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. Kestiğiniz e Arşiv Faturalarını portaldan indirir.
+eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek veya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. Kestiğiniz e Arşiv Faturalarını isterseniz aylık isterseniz tek fatura olarak portaldan indirir.
 
 (eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
 
 1.2.6 versiyonumuz sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterileri adına fatura düzenlemekte olan Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. Kullanım kılavuzu bu DATAxlsx'in içerisindedir.)
+eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. Kullanım kılavuzu bu DATAxlsx'in içerisindedir.)
 
 Programın mevcut bazı özellikleri şunlardır:
 
@@ -28,12 +29,13 @@ Programın mevcut bazı özellikleri şunlardır:
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri kartlarını önceden tanımla-kullan)
 - Vergi numarasından mükellef adı VD sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
-- Fatura içeriğini Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Proforma faturayı email gönder (Yandex mail ve Outlook ile gönderim imkanı vardır.)
-- Onaylanmış faturaları indir ve gönder (Yandex mail ve Outlook ile gönderim imkanı vardır.)
+- Fatura satırlarını Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
+- Fatura satırlarını indirilen eArşiv faturalardan al,
+- İndirilen faturaların satırlarını topluca tek Excel sayfasına çıkart,
+- İndirilen faturaları filtrele, seçilenleri toplu e-mail gönder,
+- Proforma faturayı email gönder (Outlook veya Yandex mail ile gönderim seçenekleri aktiftir.)
 - Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden Excel Listesi olarak indirmektedir.)
 - Kesilen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait kesmiş olduğu faturalarını eArşiv Portalından indirir ve kullanışlı olarak yeniden adlandırır.)
-- Kesilen faturayı muhasebeye entegre et (Yaygın muhasebe programlarına uygun muhasebe fişi oluşturma çalışmaları sürüyor.)
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
