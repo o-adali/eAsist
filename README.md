@@ -1,4 +1,4 @@
-#     eAsist v1.2.6    e-Belge yükleme asistanı   
+#     eAsist v1.2.6    e-Belge yükleme asistanı (1.3.0 çok yakında...)
 
       ÖNEMLİ DUYURU  :
       
