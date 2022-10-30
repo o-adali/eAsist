@@ -40,8 +40,8 @@ Programın mevcut bazı özellikleri şunlardır:
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle (Klavye yoluyla portala en çok 50 satırlık fatura girilebilir. eAsist 250 satırlık faturayı otomatik olarak yükleyebilmektedir.)
-- Otomatik güncelleme özelliği (Bu özelliğe v1.0.6 dan sonra ara verilmişti. v1.3.5 ile yeniden başlandı)
-- İnternet Radyosu (v106 ile eklendi. Şimdilik 4 sabit radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda kırmızı renkli herhangi bir alana tıklayın.)
+- Otomatik güncelleme özelliği
+- İnternet Radyosu (4 radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda kırmızı renkli herhangi bir alana tıklayın.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
