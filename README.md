@@ -20,7 +20,7 @@ eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize y
 
 1.3.5 versiyonu sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
+eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. Bilhassa v135 ile eArşiv Faturalarını yönetmek, iletmek, arşivlemek son derece basit hale gelmiştir. Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir. (DATA.xlsx dosyası programın Veri Tabanıdır. Fatura düzenleyilerin Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır. DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın mevcut bazı özellikleri şunlardır:
 
