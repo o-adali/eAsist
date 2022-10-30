@@ -16,7 +16,7 @@ eAsist kullanarak eArşiv Portalına giriş yapmak ve fatura içeriğini portala
 
 eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek veya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. Kestiğiniz e Arşiv Faturalarını isterseniz aylık isterseniz tek fatura olarak portaldan indirir.
 
-(eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. ))
+(eAsist Tam Otomatik modda çalışırken fatura onaylama süreci (gelen SMS şifresi girilerek), onaylanan faturanın indirilmesi ve alıcıya email gönderilmesi, faturanın muhasebeye entegre edilmesi gibi rutin süreçler tam otomatik biçimde yapılır. )
 
 1.3.5 versiyonu sadece CHROME tarayıcı ile uyumludur ve sadece eArşiv Portalı üzerinden düzenlenebilen Faturalar desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
