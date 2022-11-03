@@ -1,4 +1,4 @@
-#     eAsist v1.3.5    e-Belge yönetim asistanı
+#     eAsist v1.3.5  Fatura düzenleme ve e-Belge yönetim asistanı
 
       ÖNEMLİ DUYURU  :
       
