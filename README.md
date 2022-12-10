@@ -4,8 +4,8 @@
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme süreli (Trial) lisanslıdır. 1.2.6 öncesi versiyonların süresi 31/12/2022'de 1.2.6 sonrası ise 10/04/2023     tarihinde dolacaktır. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
-      eAsist programında hiçbir teklikeli ya da kötü amaçlı kod yoktur. Öncelikle bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ........!!!
-
+      eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
+      
 Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
 
 Kurulumu ve kullanımı son derece basit ve güvenlidir.
@@ -81,7 +81,7 @@ KULLANIM HAKKINDA:
 
 GÜVENLİĞİNİZ HAKKINDA :
 
-Kimsenin özel veya genel bilgisine ilgimiz ve ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı vermektedir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar. Gerek ilk kurulum öncesi zip paketi, gerek versiyon yenilemek için güncel eAsist.EXE dosyasını indirirken tarayıcınız güvenlik uyarısı verecek ve dosyayı kaydetmek için sizden onay isteyecektir. 
+Hiç kimsenin özel veya genel bilgisine ilgimiz/ihtiyacımız yoktur. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı vermektedir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar. Gerek ilk kurulum öncesi zip paketi, gerek versiyon yenilemek için güncel eAsist.EXE dosyasını indirirken tarayıcınız güvenlik uyarısı verecek ve dosyayı kaydetmek için sizden onay isteyecektir. 
 Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın size herhangi bir zararı olmadığını bilmenizi isterim.
 
 - iletişim ve Destek ihtiyacınız olursa çekinmeden yazın:  easistfatura@gmail.com , ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
