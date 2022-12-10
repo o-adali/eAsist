@@ -54,7 +54,7 @@ Yeni versiyonlara ilave kullanım süreleri verilmektedir. v1.9.9'a kadar tüm e
 
 KURULUM AŞAMALARI :
 
-1. eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın. (İndirilenler\eAsistKur klasörüne çıkarmanız önerilir)
+1. Yalnızca eAsistKur.zip dosyasını indirin ve içeriğini eAsistKur klasörüne çıkarın. (İndirilenler\eAsistKur klasörüne çıkarmanız önerilir)
 2. eAsistKur klasörü içerisindeki eAsistKur.exe dosyasını yönetici olarak çalıştırın, (üzerine sağ-tık yaparak menüden Yönetici olarak çalıştır'ı seçin)
 
 Kur masa üzerine eAsist klasörü ve kısayol ikonu oluşturacaktır. 
