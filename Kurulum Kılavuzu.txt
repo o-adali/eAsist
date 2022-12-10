@@ -1,4 +1,4 @@
-eAsist 1.3.5 (Beta) kurulum aşamaları:
+eAsist 1.3.6 (Beta) kurulum aşamaları:
 
    Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
    - WINDOWS 10 veya 11
