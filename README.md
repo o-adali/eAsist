@@ -1,4 +1,4 @@
-#     eAsist v1.3.5  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.3.6  Fatura düzenleme ve e-Belge yönetim asistanı
 
       ÖNEMLİ DUYURU  :
       
@@ -18,7 +18,7 @@ eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize y
 
 eArşiv Portalı üzerinden düzenlenebilen Fatura türlerinin tamamı desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.3.5 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
+eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.3.6 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
 
 Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.
 (DATA.xlsx dosyası programın Veri Tabanıdır. Adına eArşiv Fatura düzenleyeceğiniz firmalarınızın Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır.)
@@ -69,7 +69,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.3.5 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.5 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalar iseler, gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.3.6 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.6 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
