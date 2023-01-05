@@ -49,7 +49,7 @@ Programın mevcut bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Güncel sürüm olan v1.3.5'in son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.3.7'in son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
 Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
 
 KURULUM AŞAMALARI :
