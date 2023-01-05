@@ -1,4 +1,4 @@
-#     eAsist v1.3.6  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.3.7  Fatura düzenleme ve e-Belge yönetim asistanı
 
       ÖNEMLİ DUYURU  :
       
@@ -50,7 +50,7 @@ LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
 İlk eAsist sürümü olan v1.0.0 Mart-2022' de yayınlandı. Güncel sürüm olan v1.3.5'in son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
-Yeni versiyonlara ilave kullanım süreleri verilmektedir. v1.9.9'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
+Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
 
 KURULUM AŞAMALARI :
 
@@ -69,7 +69,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.3.6 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.6 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.3.7 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.7 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
