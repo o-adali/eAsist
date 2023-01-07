@@ -1,0 +1,57 @@
+eAsist 1.3.8 Beta kurulum aşamaları:
+
+   Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
+   - WINDOWS 10 veya 11
+   - CHROME tarayıcı (100.x veya daha yenisi) 
+   - EXCEL (2010 veya daha yenisi MsOffice)
+ 
+Bunlar varsa aşağıdaki adımları uygulayın.
+
+1- eAsistKur.zip paketini \eAsistKur klasörüne çıkarın,
+2- Klasöre çıkardığınız dosyalar içerisindeki eAsistKur.exe dosyasına sağ tık yapın, menüden Yönetici Olarak Çalıştır'ı seçin,
+3- Kurulum sırasında soru mesajlarına yanıt verin.(EVET yanıtı vermeniz Önerilir),
+4- Kur masa üzerine eAsist klasörü oluşturur ve gerekli dosyaları buraya taşır.
+5- Program otomatik başlatırılır, Giriş butonu ile şifresiz giriş yapın.
+6- Program başlayınca  -Tanımlar- butonunu tıklayın (üst menüde bulunur), açılacak olan EXCEL dosyasının içerisindeki açıklamaları uygulayın.
+7- Programı yeniden başlatın.
+
+Programınız kuruldu, Veri Tabanına belittiğiniz firmalarınız için sistem klasörleri oluşturuldu.
+(Kurulum sonrası ZİP paketi ve oluşturduğunuz eAsistKur klasörünü silebilirsiniz.)
+
+Artık Fatura düzenleyebilirsiniz.
+
+Bunun için sol üst seçim kutusundan fatura kesecek olan firmanızı seçin,
+
+Orta üst seçim kutusundan bir fatura türü seçin 
+
+Yöntem 1:
+( EXCEL KAYDET butonunu tıklayın, oluşan excel şablon dosyasını seçip (üzerine tıklayın mavileşsin) EXCEL AÇ'a tıklayın
+bu şablona veri girip Exceli kaydedin. Sonra EXCEL YÜKLE butonunu tıklayın. Excel dosyasına girdiğiniz veriler, Fatura Satırlarına aktarılacaktır.
+EARŞİV butonuna tıklayın ve portala yükleyin.)
+
+Yöntem 2:
+Stok Kartı ile fatura kesmek için ise aşağıdaki adımları uygulayın.
+
+Mal/Hizmet Ekle butonuna tıklayın
+
+Ürün hizmet Adına "TEST ÜRÜN" yazın, miktar/Birim/Birim fiyat/KDV oranı bilgilerini girin ve FATURAYA EKLE butonunu tıklayın
+
+eArşiv butonuna tıklayın.
+
+Faturanız eArşiv Portal sitesine yüklenecek ve toplamları belirten bir mesaj kutusu görünecektir. 
+Bu mesaja TAMAM deyin.
+
+Ardından ETTN numarası ile fatura hazırlandı mesajı görünecektir. 
+Bu mesaja TAMAM deyin.
+
+Faturaya hiçbir işlem yapmadan Sistemden GÜVENLİ ÇIKIŞ yapar.
+
+Portal üzerinde faturanız yüklü iken Portal'ın OLUŞTUR butonuna tıklamadan Çıkış yaparsanız 
+yüklediğiniz fatura portala hiç yüklenmemiş gibi olur. Yani kaydedilmediği için portal hafızasından silinir.
+Program ekranındaki faturayı tekrar yüklemek için tekrar eArşiv butonuna tıklayın. 
+Kullanım şeklini gösteren videoları izleyin.
+
+Destek talebi için: easistfatura@gmail.com
+
+İşlerinizde kolaylıklar dileriz..
+eAsist ekibi
