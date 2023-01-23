@@ -1,4 +1,4 @@
-#     eAsist v1.3.8  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.3.9  Fatura düzenleme ve e-Belge yönetim asistanı
 
       ÖNEMLİ DUYURU  :
       
@@ -18,7 +18,7 @@ eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize y
 
 eArşiv Portalı üzerinden düzenlenebilen Fatura türlerinin tamamı desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.3.6 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
+eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.3.9 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
 
 Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.
 (DATA.xlsx dosyası programın Veri Tabanıdır. Adına eArşiv Fatura düzenleyeceğiniz firmalarınızın Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır.)
@@ -33,11 +33,12 @@ Programın mevcut bazı özellikleri şunlardır:
 - Vergi numarasından mükellef adı VD sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
 - Fatura satırlarını Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Fatura satırlarını indirilen eArşiv faturalardan al,
-- İndirilen faturaların satırlarını topluca bir Excel sayfasına çıkart,
+- İndirilen faturaların satırlarını Excel'e çıkart,
 - İndirilen faturaları filtrele, seçilenleri toplu e-mail gönder,
 - Proforma faturayı email gönder (Outlook veya Yandex mail ile gönderim seçenekleri aktiftir.)
 - Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden Excel Listesi olarak indirmektedir.)
 - Kesilen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait kesmiş olduğu faturalarını eArşiv Portalından indirir(html ve xml olarak) ve kullanışlı biçimde  yeniden adlandırır.)
+- İndirilenleri PDF'e dönüştür,
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
@@ -49,7 +50,7 @@ Programın mevcut bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.3.8'in son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.3.9'un son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
 Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
 
 KURULUM AŞAMALARI :
@@ -69,7 +70,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.3.8 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.8 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.3.9 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.9 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
@@ -81,7 +82,7 @@ KULLANIM HAKKINDA:
 
 GÜVENLİĞİNİZ HAKKINDA :
 
-Öncelikle hiç kimsenin özel veya genel bilgisine ilgimizin ya da ihtiyacımızın olmadığını belirtmek isterim. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı verebilir. Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar.
+Öncelikle hiç kimsenin özel veya genel bilgisine ilgimizin ya da ihtiyacımızın olmadığını belirtmek isterim. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı verebilir.(v1.3.8 den itibaren windows ve Chrome eAsist için tehlikelidir uyarısı yapmıyor.) Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar.
 Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın size herhangi bir zararı olmadığını bilmenizi isterim.
 
 - iletişim ve Destek ihtiyacınız olursa çekinmeden yazın:  easistfatura@gmail.com , ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
