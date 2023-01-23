@@ -2,7 +2,7 @@
 
       ÖNEMLİ DUYURU  :
       
-eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme süreli (Trial) lisanslıdır. 1.2.6 öncesi versiyonların süresi 31/12/2022'de 1.2.6 sonrası ise 10/04/2023     tarihinde dolacaktır. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
+eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme süreli (Trial) lisanslıdır. 1.2.6 öncesi versiyonların süresi 31/12/2022'de sona erdi. Daha yukarı versiyonların kullanım süresi ise 10/04/2023 tarihinde dolacaktır. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
       eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
       
@@ -52,6 +52,7 @@ Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. K
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
 İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.3.9'un son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
 Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
+v1.3.8 ile başlayan ücretsiz lisans anahtarı (KEY) prosedürümüz bulunmaktadır.
 
 KURULUM AŞAMALARI :
 
