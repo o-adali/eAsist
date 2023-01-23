@@ -83,7 +83,7 @@ KULLANIM HAKKINDA:
 
 GÜVENLİĞİNİZ HAKKINDA :
 
-Öncelikle hiç kimsenin özel veya genel bilgisine ilgimizin ya da ihtiyacımızın olmadığını belirtmek isterim. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı verebilir.(v1.3.8 den itibaren windows ve Chrome eAsist için tehlikelidir uyarısı yapmıyor.) Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar.
+Öncelikle hiç kimsenin özel veya genel bilgisine ilgimizin ya da ihtiyacımızın olmadığını belirtmek isterim. eAsist'i güvenle kullanabilirsiniz, hiç bir verinizi kopyalamaz, bizimle veya başkaları ile paylaşmaz. Microsoft Yayımcı Sertifikamızı'mızı henüz almadığımızdan WINDOWS eAsist için "Bilinmeyen Yayımcı-Tehlikeli Olabilir !" uyarısı verebilir.(v1.3.8 den itibaren Windows ve Chrome eAsist için -Bilinmeyen Yayımcı- uyarısı yapmıyor.) Bu uyarı yazılımın güvensiz olduğu anlamına gelmeyeceği gibi sertifikalı yazılımların güvenli oldukları anlamına da gelmez. Ancak bir programın ücreti ödenmiş bir sertifikaya sahip olması Window'su ve Tarayıcıyı sessizleştirir, böylece o program hakkında "tehlikeli olabilir" uyarısı yapmazlar.
 Ücretsiz ve geliştirme aşamasında olan eAsist'i kullanmanızın size herhangi bir zararı olmadığını bilmenizi isterim.
 
 - iletişim ve Destek ihtiyacınız olursa çekinmeden yazın:  easistfatura@gmail.com , ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
