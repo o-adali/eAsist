@@ -1,4 +1,4 @@
-#     eAsist v1.3.9  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.4.0  Fatura düzenleme ve e-Belge yönetim asistanı
 
       ÖNEMLİ DUYURU  :
       
@@ -25,8 +25,7 @@ Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara g
 DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın mevcut bazı özellikleri şunlardır:
-
-- eArşiv Portalına giriş ve sayfalara ulaşmada kolaylık sağlar. 
+- e Asist v1.4.0 üçyüz(300 kullanıcıya kadar) firmalarınızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri kartlarını önceden tanımla-kullan)
@@ -34,23 +33,23 @@ Programın mevcut bazı özellikleri şunlardır:
 - Fatura satırlarını Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
 - Fatura satırlarını indirilen eArşiv faturalardan al,
 - İndirilen faturaların satırlarını Excel'e çıkart,
-- İndirilen faturaları filtrele, seçilenleri toplu e-mail gönder,
+- İndirilen faturaları no/ tarih/ vergi no/ alıcı ünvanı kriterlerine göre filtrele, seçilenleri toplu e-mail gönder,
 - Proforma faturayı email gönder (Outlook veya Yandex mail ile gönderim seçenekleri aktiftir.)
 - Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden Excel Listesi olarak indirmektedir.)
 - Kesilen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait kesmiş olduğu faturalarını eArşiv Portalından indirir(html ve xml olarak) ve kullanışlı biçimde  yeniden adlandırır.)
-- İndirilenleri PDF'e dönüştür,
+- İndirilenleri tek tıkla PDF'e dönüştür,
 - Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
 - Çok satırlı faturaları hızlı yükle (Klavye yoluyla portala en çok 50 satırlık fatura girilebilir. eAsist 250 satırlık faturayı otomatik olarak yükleyebilmektedir.)
 - Otomatik güncelleme özelliği
-- İnternet Radyosu (4 radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda kırmızı renkli herhangi bir alana tıklayın.)
+- İnternet Radyosu (4 radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda gri renkli herhangi bir alana tıklayın.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
 
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.3.9'un son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.0'ın son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
 Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
 v1.3.8 ile başlayan ücretsiz lisans anahtarı (KEY) prosedürümüz bulunmaktadır.
 
@@ -71,7 +70,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.3.9 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.3.9 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.4.0 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.4.0 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
