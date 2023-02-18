@@ -6,11 +6,11 @@ eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kul
          
       eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
       
-Ülkemizin en kapsamlı eArşiv Faturaları eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturalar için Excel'den veri alma ve stok kartı kullanma kolaylığı sağlayan eAsist'i geliştirme çalışmaları sürmektedir. 
+Ülkemizin en kapsamlı eArşiv Faturaları (Portal üzerinde) eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturaları, tekrar eden faturaları Excel'den alarak veya excel stok kartı özelliği ile düzenleme ve onaylama sürecini basitleştiren eAsist'i geliştirme çalışmaları sürmektedir.
 
 Kurulumu ve kullanımı son derece basit ve güvenlidir.
 
-eAsist uygulaması, Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura düzenleme" - "Fatura indirme" ve      "e-belge yönetimi" programıdır.
+eAsist uygulaması, Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Portal kullanıcıları için geliştirilmiş olan bir "Fatura düzenleme" - "Fatura indirme" ve      "e-belge yönetimi" programıdır. Ayrıca portal üzerinden eFatura ve eİrsaliye 'de yüklemektedir. Yükleme videoları youtube kanalımızda yayınlanmıştır.
 
 eAsist kullanarak eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve gelen EARŞİV faturalarınızı indirebilirsiniz. Gerek kesilen (GİDEN) gerek alınan (GELEN) faturalarınızı çeşitli şekillerde yönetebilirsiniz.
 
@@ -25,24 +25,24 @@ Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara g
 DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın mevcut bazı özellikleri şunlardır:
-- Auto seçeneği ile Excelden tek tıkla Sınırsız toplu fatura oluşturma ve yükleme (v1.4.1 'den itibaren aktiftir)
+- Auto seçeneği ile Excelden tek tıkla Sınırsız toplu fatura oluşturma ve otomatik yükleme (v1.4.1 'den itibaren aktiftir- videosu yüklenecektir)
 - e Asist v1.4.0 üçyüz(300 kullanıcıya kadar) firmalarınızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
-- Müşteri Kartı yönetimi (Müşteri kartlarını önceden tanımla-kullan)
-- Vergi numarasından mükellef adı VD sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
-- Fatura satırlarını Excel'den al, Excel'e fatura/şablon çıkart (Excel veri al/ver)
-- Fatura satırlarını indirilen eArşiv faturalardan al,
-- İndirilen faturaların satırlarını Excel'e çıkart,
-- İndirilen faturaları no/ tarih/ vergi no/ alıcı ünvanı kriterlerine göre filtrele, seçilenleri toplu e-mail gönder,
-- Proforma faturayı email gönder (Outlook veya Yandex mail ile gönderim seçenekleri aktiftir.)
-- Gelen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait gelen faturalarını İnteraktif V.D.'nden Excel Listesi olarak indirmektedir.)
-- Kesilen e-Arşiv Faturalarını indir, (Seçilen firmanın seçilen aya ait kesmiş olduğu faturalarını eArşiv Portalından indirir(html ve xml olarak) ve kullanışlı biçimde  yeniden adlandırır.)
+- Müşteri Kartı yönetimi (Müşteri Cari kartlarını önceden tanımla-kullan)
+- Vergi numarasından mükellef adı/ V.Dairesi/ Adres sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
+- Fatura satırlarını Excel'den al, Excel'e fatura satırlarını çıkart. Otomatik Şablon oluştur. (Excel veri al/ver)
+- Fatura satırlarını indirilen eski eArşiv faturalardan al, (Eski faturayı tekrarla)
+- Kesilen ve alınan faturaları Aylık indir.
+- İndirirken yeniden adlandır. (GIB serisi - Alıcı Vkn - Ay- Yıl - Alıcı Adı ) şeklinde isimlendirir.
 - İndirilenleri tek tıkla PDF'e dönüştür,
-- Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler)
+- İndirilen faturaları no/ tarih/ vergi no/ alıcı ünvanı kriterlerine göre filtrele, seçilenleri tek tıkla toplu e-mail gönder
+- İndirilen faturalar arasından filitre ile arama yap, seçilen faturaların satırlarını tek tıkla Excele çıkart
+- Proforma faturayı email gönder (Outlook veya Yandex mail ile gönderim seçenekleri aktiftir.)
+- Ön tanımlı dipnot ekle (3 Ayrı dipnot cümlesini her faturanın dipnot kısmına otomatik ekler Örn. Kargo bilgisi, IBAN ya da vade bilgisi )
 - KDV matrah hesaplayıcı (Faturadaki KDV Matrahlarını hesaplar ve dipnot kısmına otomatik ekler)
 - Yalnız: yazı ile TL yaz (Fatura genel toplamını yazı ile dipnot kısmına otomatik ekler)
-- Çok satırlı faturaları hızlı yükle (Klavye yoluyla portala en çok 50 satırlık fatura girilebilir. eAsist 250 satırlık faturayı otomatik olarak yükleyebilmektedir.)
+- Çok kalemden oluşan faturaları hızlı yükle (Klavye yoluyla portala en çok 50 satırlık fatura girilebilir. eAsist 400 satırlık faturayı otomatik olarak yükleyebilmektedir.)
 - Otomatik güncelleme özelliği
 - İnternet Radyosu (4 radyo kanalı mevcuttur. Radyoyu görünür yapmak için ana ekranda gri renkli herhangi bir alana tıklayın.)
 - Muhasebe Ofisi / Grup Firma / Tekli Firma seçenekleri (Program her üç kullanıcı tipine de uygundur. )
@@ -51,8 +51,10 @@ LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
 İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.0'ın son kullanım tarihi 10/04/2023 olarak planlanmıştır. 
-Yeni versiyonlara ilave kullanım süreleri verilmektedir. v2.0.0'a kadar tüm eAsist sürümlerinin kullanımının ücretsiz olması planlanmaktadır.
-v1.3.8 ile başlayan ücretsiz lisans anahtarı (KEY) prosedürümüz bulunmaktadır.
+Yeni versiyonlara ilave kullanım süreleri verilmektedir.
+v1.3.8 den itibaren eAsist ksıtlı mod ile kurulur.Bazı özellikleri kısıtlıdır. Serbest hale gelmesi için ücretsiz lisans anahtarı (KEY) prosedürümüz bulunmaktadır.
+Key talebiniz aynı saat içerisinde yanıtlanmaktadır. Gelecek KEY'inizle eAsist tüm özellikleri sınırsız olarak (serbest mod) çalışmaya başlayacaktır.
+
 
 KURULUM AŞAMALARI :
 
