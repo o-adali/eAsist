@@ -4,7 +4,7 @@
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
-      eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
+eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
       
 Ülkemizin en kapsamlı eArşiv Faturaları (Portal üzerinde) eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturaları, tekrar eden faturaları Excel'den alarak veya excel stok kartı özelliği ile düzenleme ve onaylama sürecini basitleştiren eAsist'i geliştirme çalışmaları sürmektedir.
 
