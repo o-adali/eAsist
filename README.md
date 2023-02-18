@@ -25,6 +25,7 @@ Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara g
 DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın mevcut bazı özellikleri şunlardır:
+- Auto seçeneği ile Excelden tek tıkla Sınırsız toplu fatura oluşturma ve yükleme (v1.4.1 'den itibaren aktiftir)
 - e Asist v1.4.0 üçyüz(300 kullanıcıya kadar) firmalarınızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
