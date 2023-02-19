@@ -67,9 +67,9 @@ Kurulum bitiminde eAsist otomatik başlatılır.
 SİSTEM GEREKSİNİMLERİ :
 
 Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır:
-- Windows 10 ve üzeri
-- Excel 2010 ve üzeri
-- CHROME   9 ve üzeri
+- Windows 10 veya üzeri
+- Excel 2010 veya üzeri
+- CHROME   9 veya üzeri
 
 GÜNCELLEMELER :
 
