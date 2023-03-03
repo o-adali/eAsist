@@ -1,6 +1,6 @@
 #     eAsist v1.4.1  Fatura düzenleme ve e-Belge yönetim asistanı
 
-      ÖNEMLİ DUYURU  :
+      ÖNEMLİ DUYURU  : Güncellemede sorun yaşayan kullanıcılarımız! eAsist.exe yi indirip Masaüstü\eAsist\ klasörünün içerisine atınız. Sorun çözülecektir.
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
