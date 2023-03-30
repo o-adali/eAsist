@@ -97,5 +97,5 @@ VIRUSTOTAL sitesinde yapılan test sonucu :
 
 Dosya Adı         Tehlikesiz Bulanlar  /  Tehlikeli Bulanlar   /  Tehlikeli Bulan Antivirüs Markaları  
 eAsist.exe                 65                     3                   AhnLab-V3, MaxSecure, SecureAge 
-
+eAsistKur.exe              65                     3                   Trapmine, MaxSecure, SecureAge
 
