@@ -93,7 +93,7 @@ GÜVENLİĞİNİZ HAKKINDA :
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com. Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.                      
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
 
-VIRUSTOTAL.COM Sitesinde 68 Farklı Antivirüs ile Yapılan Test Sonucu : (NOT: Kendiniz de Test ediniz.)
+VIRUSTOTAL.COM Sitesinde 68 Farklı Antivirüs ile Yapılan Test Sonucu :
 
 - -----Dosya Adı------- Tehlikesiz Bulanlar ---- Tehlikeli Bulanlar --- Tehlikeli Bulan Antivirüs Markaları ---
 - eAsist.exe------------------ 65 -------------------- 3 ---------------     AhnLab-V3, MaxSecure, SecureAge 
@@ -101,3 +101,5 @@ VIRUSTOTAL.COM Sitesinde 68 Farklı Antivirüs ile Yapılan Test Sonucu : (NOT: 
 - eAsistKur.zip---------------61 -------------------- 2 ---------------      AhnLab-V3, MaxSecure
 
 - eAsistUpdate.exe ise 68 antivirüsün 14 ü tarafından tehlikeli bulunduğundan kurulum paketimizden çıkarılmıştır. Herhangi bir tehlikesi olmayan bu uygulama eAsist programın çalışması için lüzumlu değildir. Görevi yeni güncellemeleri program klasörüne yerleştirmekten ibarettir. Klasördeki konumu \eAsist\eAsistUpdate.exe dir. Bu konumda olmadığı zaman programınız güncellemeyi otomatik olarak tamamlayamaz. Bu büyük bir soruna yol açmaz zira, kendiniz manuel olarak kolayca tamamlayabilirsiniz. Yine de otomatik güncellemeyi kullanmak isterseniz ve antivirüsünüz izin veriyorsa, eAsistUpdate.exe yi indirip, klasördeki yerine kopyalayabilirsiniz.
+
+NOT : Ücretsiz bir işlem olan Virüs Kontrol Testi'ni kendiniz de yapabilirsiniz. Bunun için https://www.virustotal.com/ adresine gidin ve eAsistKur.Zip paketini siteye yükleyin.
