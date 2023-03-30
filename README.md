@@ -88,12 +88,12 @@ GÜVENLİĞİNİZ HAKKINDA :
 
 - Kişisel bilgilerinize kesinlikle saygılıyız. eAsist hiç bir zararlı kod içermez, kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Programı indiriken Antivirüs yazılımınızdan ya da Chrome tarayıcınızdan GÜVENLİK UYARISI veya VİRÜS uyarısı alabilirsiniz. eAsist programı ticari safhada olmadığından ve MICROSOFT'tan alınması gereken YAYIMCI LİSANSI'mızı (yıllık ücrete tabi olduğu için) henüz almadığımızdan BİLİNMEYEN YAYIMCI olarak ŞÜPHELİ görünmekteyiz.
 
-- eAsist şüphelendiğiniz her dosyayı test edebileceğiniz, 68 adet antivirüsün kullanıldığı, dünyaca ünlü VIRUSTOTAL.COM'da yapılan test sonucunda, tüm tanınmış Antivirüs yazılımlarından TEMİZ notu almakla birlikte, adını sanını duyurma gayreti içerisindeki 3 tanesi tarafından VİRÜSLÜ olarak rapor edildi. Sonuçlara ilişkin ekran görüntüleri incelemeniz için Virüstest Ekranı Sayfa 1 ,2,3 .jpg adlarıyla yukarıda yüklüdür. Test sonuçları ise aşağıda özetlenmiştir. Bununla birlikte eAsistUpdate.exe uygulamamız için olumsuz rapor sayısı fazla olduğundan bu dosya kurulum paketi içerisinden 30-03-2023 tarihinden itibaren çıkartılmıştır. 
+- eAsist şüphelendiğiniz her dosyayı test edebileceğiniz, 68 adet antivirüsün kullanıldığı, dünyaca ünlü VIRUSTOTAL.COM 'da yapılan test sonucunda, tüm tanınmış Antivirüs yazılımlarından TEMİZ notu almakla birlikte, adını sanını duyurma gayreti içerisindeki 3 tanesi tarafından VİRÜSLÜ olarak rapor edildi. Sonuçlara ilişkin ekran görüntüleri incelemeniz için Virüstest Ekranı Sayfa 1 ,2,3 .jpg adlarıyla yukarıda yüklüdür. Test sonuçları ise aşağıda özetlenmiştir. Bununla birlikte eAsistUpdate.exe uygulamamız için olumsuz rapor sayısı fazla olduğundan bu dosya kurulum paketi içerisinden 30-03-2023 tarihinden itibaren çıkartılmıştır. 
 - Geliştirme aşamasında olan eAsist programını kullanmanızın size bir zararı, bize de bir yararı olmadığını bilmenizi isterim.                                      
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com. Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.                      
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
 
-VIRUSTOTAL sitesinde 68 farklı antivirüs ile yapılan test sonucu :
+VIRUSTOTAL.COM Sitesinde 68 Farklı Antivirüs ile Yapılan Test Sonucu :
 
 - -----Dosya Adı------- Tehlikesiz Bulanlar ---- Tehlikeli Bulanlar --- Tehlikeli Bulan Antivirüs Markaları ---
 - eAsist.exe------------------ 65 -------------------- 3 ---------------     AhnLab-V3, MaxSecure, SecureAge 
