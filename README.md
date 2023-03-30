@@ -101,5 +101,5 @@ VIRUSTOTAL.COM Sitesinde 68 Farklı Antivirüs ile Yapılan Test Sonucu :
 - eAsistKur.zip---------------61 -------------------- 2 ---------------      AhnLab-V3, MaxSecure
 
 - eAsistUpdate.exe ise 68 antivirüsün 14 ü tarafından tehlikeli bulunduğundan kurulum paketimizden çıkarılmıştır. Herhangi bir tehlikesi olmayan bu uygulama eAsist programın çalışması için lüzumlu değildir. Görevi yeni güncellemeleri program klasörüne yerleştirmekten ibarettir. Klasördeki konumu \eAsist\eAsistUpdate.exe dir. Bu konumda olmadığı zaman programınız güncellemeyi otomatik olarak tamamlayamaz. Bu büyük bir soruna yol açmaz zira, kendiniz manuel olarak kolayca tamamlayabilirsiniz. Yine de otomatik güncellemeyi kullanmak isterseniz ve antivirüsünüz izin veriyorsa, eAsistUpdate.exe yi indirip, klasördeki yerine kopyalayabilirsiniz. Bir sonraki versiyon yenilemesinde eAsistUpdate.exe 'nin KAYNAK KODLARI 'da bu sitede yayınlanacaktır.
-- 
+
 NOT : Ücretsiz bir işlem olan Virüs Kontrol Testi'ni kendiniz de yapabilirsiniz. Bunun için https://www.virustotal.com/ adresine gidin ve eAsistKur.Zip paketini siteye yükleyin.
