@@ -1,6 +1,6 @@
 #     eAsist v1.4.2  Fatura düzenleme ve e-Belge yönetim asistanı
 
-      DİKKAT !  Programı indirmeden önce lütfen sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...!!!
+      DİKKAT !  Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...!!!
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
@@ -84,7 +84,8 @@ KULLANIM HAKKINDA:
 - Programı çalıştırın TANIMLAR menüsüne tıklayın, açılan EXCEL dosyası(DATA.xlsx) içerisinde kullanım için gerekli açıklamalar bulunmaktadır.
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
-GÜVENLİĞİNİZ HAKKINDA :
+GÜVENLİĞİNİZ HAKKINDA : 
+
 eAsist geliştirme aşamasındadır, bu nedenle kullanımı ücretsizdir. Kişisel bilgilerinize kesinlikle saygılıyız. eAsist ve bileşenleri kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Windows ve Chrome eAsist indirme ve kurulumları sırasında "Sık indirilen bir program değil, tehlikeli olabilir" uyarısı vermekteydi. Ancak yeterli indirme sayısına ulaştığımızdan buyana (yani v138'in yayınlanmasından itibaren) indirme ve kurulumlar sırasında tehlike uyarısı vermekten vaz geçmiş bulunuyorlar. Ancak CHROME güncelleme sırasında -Tehlikeli Olabilir- şeklinde uyarı vererek sizden dosyayı kaydetmek için onay istiyor. 
 eAsist hiç bir zararlı kod içermez. eAsist kullanmanın size herhangi bir zararı olmadığını bilmenizi isterim.
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com . Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
