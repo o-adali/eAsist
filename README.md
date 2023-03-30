@@ -86,7 +86,17 @@ KULLANIM HAKKINDA:
 
 GÜVENLİĞİNİZ HAKKINDA : 
 
-eAsist geliştirme aşamasındadır, bu nedenle kullanımı ücretsizdir. Kişisel bilgilerinize kesinlikle saygılıyız. eAsist ve bileşenleri kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Windows ve Chrome eAsist indirme ve kurulumları sırasında "Sık indirilen bir program değil, tehlikeli olabilir" uyarısı vermekteydi. Ancak yeterli indirme sayısına ulaştığımızdan buyana (yani v138'in yayınlanmasından itibaren) indirme ve kurulumlar sırasında tehlike uyarısı vermekten vaz geçmiş bulunuyorlar. Ancak CHROME güncelleme sırasında -Tehlikeli Olabilir- şeklinde uyarı vererek sizden dosyayı kaydetmek için onay istiyor. 
-eAsist hiç bir zararlı kod içermez. eAsist kullanmanın size herhangi bir zararı olmadığını bilmenizi isterim.
+Kişisel bilgilerinize kesinlikle saygılıyız. eAsist hiç bir zararlı kod içermez, kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Programı indiriken Antivirüs yazılımınızdan ya da Chrome tarayıcınızdan GÜVENLİK UYARISI veya virüs uyarısı alabilirsiniz. eAsist programı ticari safhada olmadığından ve Microsoft'tan alınması gereken YAYIMCI Lisansımızı (yıllık ücrete tabi olduğu için) henüz almadığımızdan BİLİNMEYEN YAYIMCI olarak ŞÜPHELİ görünmekteyiz.
+Kurulum paketimizde yer alan dosyaların virustotal.com test sonuçları aşağıdadır. Tüm tanınmış Antivirüs yazılımlarından temiz notu almakla birlikte, adı sanı bilinmeyen bazı antivirüslerce tehlikeli olarak rapor edildi. Test sonucuna ilişkin ekran görüntüsü incelemeniz için VİRÜS-TEST-RAPORUMUZ.jpg adıyla yüklüdür. Dosyayı İNDİRMEDEN ÖNCE siz kendiniz de test yapabilirsiniz. Bunun için izlemeniz gereken basit yol, aşağıda anlatılmıştır.
+Gelişme aşamasında olan eAsist programını kullanmanızın size bir zararı, bize de bir yararı olmadığını bilmenizi isterim.
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com . Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
+
+VİRUSTOTAL sitesinde dosya test etmek için :
+
+- Bu adresi kopyalayın :   
+- Bu adrese gidin :   
+- virüstotal.com sayfasındaki URL sekmesine tıklayın
+- Dosya URL sini yapıştırın ve testi başlatın.
+
+
