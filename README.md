@@ -93,9 +93,9 @@ GÜVENLİĞİNİZ HAKKINDA :
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com. Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.                              
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
 
-VIRUSTOTAL sitesinde yapılan test sonucu :
+VIRUSTOTAL sitesinde 68 farklı antivirüs ile yapılan test sonucu :
 
-- Dosya Adı         Tehlikesiz Bulanlar  /  Tehlikeli Bulanlar   /  Tehlikeli Bulan Antivirüs Markaları  
-- eAsist.exe                 65                     3                   AhnLab-V3, MaxSecure, SecureAge 
-- eAsistKur.exe              65                     3                   Trapmine, MaxSecure, SecureAge
+- ----------------Dosya Adı------------- Tehlikesiz Bulanlar ---- Tehlikeli Bulanlar ----- Tehlikeli Bulan Antivirüs Markaları ------
+- eAsist.exe------------------------------------ 65 -------------------- 3 ---------------     AhnLab-V3, MaxSecure, SecureAge 
+- eAsistKur.exe--------------------------------- 65 -------------------- 3 ---------------      Trapmine, MaxSecure, SecureAge
 
