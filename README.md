@@ -98,5 +98,6 @@ VIRUSTOTAL sitesinde 68 farklı antivirüs ile yapılan test sonucu :
 - -----Dosya Adı------- Tehlikesiz Bulanlar ---- Tehlikeli Bulanlar --- Tehlikeli Bulan Antivirüs Markaları ---
 - eAsist.exe------------------ 65 -------------------- 3 ---------------     AhnLab-V3, MaxSecure, SecureAge 
 - eAsistKur.exe---------------65 -------------------- 3 ---------------      Trapmine, MaxSecure, SecureAge
+- eAsistKur.zip---------------61 -------------------- 2 ---------------      AhnLab-V3, MaxSecure
 
 - eAsistUpdate.exe ise 68 antivirüsün 14 ü tarafından tehlikeli bulunduğundan kurulum paketimizden çıkarılmıştır. Herhangi bir tehlikesi olmayan bu uygulama eAsist programın çalışması için lüzümlu değildir. Görevi yeni güncellemeleri program klasörüne yerleştirmekten ibarettir. Klasördeki konumu \eAsist\eAsistUpdate.exe dir. Bu konumda olmadığı zaman programınız güncellemeyi otomatik olarak tamamlayamaz. Bu büyük bir soruna yol açmaz zira, kendiniz manuel olarak kolayca tamamlayabilirsiniz. Yinede otomatik güncellemeyi kullanmak isterseniz antivirüsünüzün izin verdiği ölçüde eAsistUpdate.exe yi indirip, klasördeki yerine kopyalayabilirsiniz.
