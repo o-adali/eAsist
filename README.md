@@ -88,17 +88,15 @@ GÜVENLİĞİNİZ HAKKINDA :
 
 - Kişisel bilgilerinize kesinlikle saygılıyız. eAsist hiç bir zararlı kod içermez, kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Programı indiriken Antivirüs yazılımınızdan ya da Chrome tarayıcınızdan GÜVENLİK UYARISI veya VİRÜS uyarısı alabilirsiniz. eAsist programı ticari safhada olmadığından ve MICROSOFT'tan alınması gereken YAYIMCI LİSANSI'mızı (yıllık ücrete tabi olduğu için) henüz almadığımızdan BİLİNMEYEN YAYIMCI olarak ŞÜPHELİ görünmekteyiz.
 
-- Kurulum paketimizde yer alan dosyaların virustotal.com test sonuçları aşağıdadır. Tüm tanınmış Antivirüs yazılımlarından temiz notu almakla birlikte, adı sanı bilinmeyen bazı antivirüslerce tehlikeli olarak rapor edildi. Test sonucuna ilişkin ekran görüntüsü incelemeniz için VİRÜS-TEST-RAPORUMUZ.jpg adıyla yüklüdür. Dosyayı İNDİRMEDEN ÖNCE siz kendiniz de test yapabilirsiniz. Bunun için izlemeniz gereken basit yol, aşağıda anlatılmıştır.
+- eAsist şüphelendiğiniz her dosyayı test edebileceğiniz, 68 adet antivirüsün kullanıldığı virustotal.com 'da yapılan test sonucunda, tüm tanınmış Antivirüs yazılımlarından TEMİZ notu almakla birlikte, adı sanı bilinmediği için kendini özel göstermeye çalışan 3 antivirüs tarafından VİRÜSLÜ olarak rapor edildi. Test sonucuna ilişkin ekran görüntüleri incelemeniz için VİRÜS-TEST-RAPORU.jpg adıyla yüklüdür. Dosyayı siz kendiniz de test yapabilirsiniz. Bunun için izlemeniz gereken basit yol, aşağıda anlatılmıştır.
 
 - Gelişme aşamasında olan eAsist programını kullanmanızın size bir zararı, bize de bir yararı olmadığını bilmenizi isterim.
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: easistfatura@gmail.com. Ayrıca Github Logosundaki GSM numaramdan bana ulaşabilirsiniz.
 İşlerinize kolaylık getirmesini diler, saygılar sunarım.
 
-VIRUSTOTAL sitesinde dosya test etmek için :
+VIRUSTOTAL sitesinde yapılan test sonucu :
 
-- Bu adresi kopyalayın : https://github.com/o-adali/eAsist/raw/main/eAsistKur.zip
-- Bu adrese gidin : https://www.virustotal.com/  
-- Gittiğiniz sayfa(virustotal.com)'da ki URL sekmesine tıklayın
-- Dosya URL sini yapıştırın ve testi başlatın.
+    Dosya Adı         Tehlikesiz Bulanlar  /  Tehlikeli Bulanlar   /  Tehlikeli Bulan Antivirüs Markaları
+  eAsist.exe                 65                     3                   AhnLab-V3, MaxSecure, SecureAge
 
 
