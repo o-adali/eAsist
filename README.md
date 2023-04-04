@@ -52,7 +52,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.2'ın son kullanım tarihi 10/05/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.3'ın son kullanım tarihi 10/06/2023 olarak planlanmıştır. 
 Yeni versiyonlara ilave kullanım süreleri verilmektedir.
 v1.3.8 den itibaren eAsist kısıtlı mod ile kurulur. Bazı özellikleri kısıtlıdır. Serbest hale gelmesi için Ücretsiz Lisans Anahtarı (KEY) isteyiniz.
 Key talebinizi Hakkında menüsünde bulunan form üzerinden bize iletin. Belirteceğiniz e-posta adresine aynı saat içerisinde KEY gönderilmektedir. 
