@@ -28,7 +28,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 - Tam otomatik sınırsız toplu fatura yükleme ve onaylama imkanı (v143 te Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
 - SATIŞ Faturanızda ÖTV gibi KDV ye tabi ek vergilerin tamamını kullanabilirsiniz. eAsist faturanızı doğru biçimde yükleyecektir.
 - Toplu - Excel den Aktar seçeneği ile tek tıkla Sınırsız toplu fatura oluşturma ve otomatik yükleme (kullanım videosu: https://youtu.be/X_tB9usM9ok )
-- e Asist v1.4.2 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.4.3 den itibaren 300(üçyüz) firmaya çıkarılacaktır.)
+- e Asist v1.4.3 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.4.4 den itibaren 300(üçyüz) firmaya çıkarılacaktır.)
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri Cari kartlarını önceden tanımla-kullan)
