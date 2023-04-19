@@ -1,4 +1,4 @@
-#     eAsist v1.4.5  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.4.6  Fatura düzenleme ve e-Belge yönetim asistanı
 
       DİKKAT ! ! !  Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ... ! ! ! 
       
@@ -18,24 +18,25 @@ eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize y
 
 eArşiv Portalı üzerinden düzenlenebilen Fatura türlerinin tamamı desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
-eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.4.5 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
+eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. v1.4.6 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
 
 Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.
 (DATA.xlsx dosyası programın Veri Tabanıdır. Adına eArşiv Fatura düzenleyeceğiniz firmalarınızın Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır.)
 DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın kullanımda olan bazı özellikleri şunlardır:
-- Tam otomatik sınırsız toplu fatura yükleme ve onaylama imkanı (v1.4.5 te Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
+- Tam otomatik sınırsız toplu fatura yükleme ve onaylama imkanı (v1.4.6 te Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
 - SATIŞ Faturanızda ÖTV gibi KDV ye tabi ek vergilerin tamamını kullanabilirsiniz. eAsist faturanızı doğru biçimde yükleyecektir.
 - Toplu - Excel den Aktar seçeneği ile tek tıkla Sınırsız toplu fatura oluşturma ve otomatik yükleme (kullanım videosu: https://youtu.be/X_tB9usM9ok )
-- e Asist v1.4.5 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.4.6 den itibaren 300(üçyüz) firmaya çıkarılacaktır.)
+- e Asist v1.4.6 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.4.7 den itibaren 300(üçyüz) firmaya çıkarılacaktır.)
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi portal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri Cari kartlarını önceden tanımla-kullan)
-- Vergi numarasından mükellef adı/ V.Dairesi/ Adres sorgula (Bu özellik v1.2.6 dan itibaren yeniden kullanılabilir durumdadır)
+- Vergi numarasından mükellef adı/ V.Dairesi sorgula (bu özellik v1.4.6 ile yeniden aktif edildi)
+- Vergi numarasından mükellef adı/ V.Dairesi/ Adres/Faaliyet durumu sorgula (Bu özellik ise v1.2.6 dan itibaren kullanılabilir durumdadır)
 - Fatura satırlarını Excel'den al, Excel'e fatura satırlarını çıkart. Otomatik Şablon oluştur. (Excel veri al/ver)
 - Fatura satırlarını indirilen eski eArşiv faturalardan al, (Eski faturayı tekrarla)
-- Kesilen ve alınan faturaları Aylık indir.(v1.4.6 dan itibaren tarih aralığı seçeneği gelecektir)
+- Kesilen ve alınan faturaları Aylık indir.(v1.4.7 dan itibaren tarih aralığı seçeneği gelecektir)
 - İndirirken yeniden adlandır. (GIB seri nosu/ Alıcı Vkn / Ay / Yıl / Alıcı Adı ) ile otomatik isimlendirir. Aradığınız faturayı kolayca bulabilirsiniz.
 - İndirilenleri tek tıkla PDF'e dönüştür,
 - İndirilen faturaları no/ tarih/ vergi no/ alıcı ünvanı kriterlerine göre filtrele, seçilenleri tek tıkla toplu e-mail gönder
@@ -52,7 +53,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı.Eski sürümlerin kullanım süreleri 10/04/2023 tarihinde dolacaktır. Güncel sürüm olan v1.4.5'in son kullanım tarihi 10/06/2023 olarak planlanmıştır. Yeni yayınlanan her versiyonla birlikte eski kullanıcılara ek ücretsiz kullanım süresi verilmektedir.
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı.Eski sürümlerin kullanım süreleri 10/04/2023 tarihinde dolacaktır. Güncel sürüm olan v1.4.6'nın son kullanım tarihi 10/06/2023 olarak planlanmıştır. Yeni yayınlanan her versiyonla birlikte eski kullanıcılara ek ücretsiz kullanım süresi verilmektedir.
 eAsist ilk kurulumda KISITLI mod ile kurulur. Bazı özellikleri kısıtlıdır. Serbest hale gelmesi için Ücretsiz Lisans Anahtarı (KEY) isteyiniz.
 Key talebinizi Hakkında menüsünde bulunan form üzerinden bize iletin. Belirteceğiniz e-posta adresine aynı saat içerisinde ücretsiz KEY gönderilmektedir. 
 Gelecek KEY'inizi kaydettikten sonra eAsist'inizin tüm özellikleri sınırsız olarak (SERBEST mod) çalışmaya başlayacaktır.
@@ -74,7 +75,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.4.5 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.4.5 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.4.6 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.4.6 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
