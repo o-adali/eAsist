@@ -1,10 +1,10 @@
 
-eAsist 1.4.6 Beta kurulum aşamaları:
+eAsist 1.4.8 Beta kurulum aşamaları:
 
    Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
    - WINDOWS 10 veya 11
    - CHROME tarayıcı (100.x veya daha yenisi) 
-   - EXCEL (2010 veya daha yenisi MsOffice)
+   - EXCEL (MsOffice 2010 veya daha yenisi)
  
 Yukarıda sayılanlar sisteminizde mevcut ise aşağıdaki adımları uygulayın.
 
@@ -22,8 +22,9 @@ Kullanım şeklini gösteren videoları kanalımızdan izleyebilirsiniz.
 
 Destek talebi için               : 
 ---------------------------------
-e-Mail   : easistfatura@gmail.com
 Whatsapp : 0501 037 52 77
+e-Mail   : easistfatura@gmail.com
+Twitter  : @eAsist_Fatura
 
 İşlerinizde kolaylıklar dileriz..
 eAsist ekibi
