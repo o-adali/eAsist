@@ -19,7 +19,7 @@ eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize y
 eArşiv Portalı üzerinden düzenlenebilen Fatura türlerinin tamamı desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
 eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. 
-v1.4.8 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
+v1.4.9 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
 
 Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.
 (DATA.xlsx dosyası programın Veri Tabanıdır. Adına eArşiv Fatura düzenleyeceğiniz firmalarınızın Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır.)
@@ -55,7 +55,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.8'in son kullanım tarihi 31/12/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.9'un son kullanım tarihi 31/12/2023 olarak planlanmıştır. 
 Yeni yayınlanan her versiyonla birlikte eski kullanıcıların ücretsiz kullanım süreleri uzatılmaktadır.
 eAsist ilk kurulumda KISITLI mod ile kurulur. Bazı özellikleri kısıtlıdır. Serbest hale gelmesi için Ücretsiz Lisans Anahtarı (KEY) isteyiniz.
 Key talebinizi Hakkında menüsünde bulunan form üzerinden bize iletin. Belirteceğiniz e-posta adresine aynı saat içerisinde ücretsiz KEY gönderilmektedir. 
