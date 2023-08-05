@@ -1,12 +1,12 @@
-#     eAsist v1.4.8  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.4.9  Fatura düzenleme ve e-Belge yönetim asistanı
 
       Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
 eAsist programı Kişisel Verilerin Korunması Kanununa uygundur. Kullanıcıların hiçbir verisini kopyalamaz, ikinci veya üçüncü taraflarla paylaşmaz.
-      
-Ülkemizin en kapsamlı eArşiv Faturaları (Portal üzerinde) eAsist ile düzenlendi. Excel listesi olarak hazırlanmış olan ve 439 kalem ürün içermekte olan bu faturalar 150+150+139 satırlık 3 ayrı fatura şeklinde portala yüklenerek onaylandı. Çok kalemden oluşan faturaları, tekrar eden faturaları Excel'den alarak veya excel stok kartı özelliği ile düzenleme ve onaylama sürecini basitleştiren eAsist'i geliştirme çalışmaları sürmektedir.
+
+eAsist çok satırdan oluşan faturaları ve aylık tekraren düzenlenen faturaların verilerini Excel'den alarak portala yükleme özelliği ile fatura düzenleme sürecini basitleştirir.
 
 Kurulumu ve kullanımı son derece basit ve güvenlidir.
 
@@ -27,10 +27,10 @@ DATA.xlsx'in içerisinde detaylı bir kullanım kılavuzu bulunmaktadır.
 
 Programın kullanımda olan bazı özellikleri şunlardır:
 - eAsist v1.4.8 'den itibaren e Arşiv Portalının bir simülatörüne dönüşmüştür. eAsist ile oluşturulan tüm Fatura varyasyonları Portal'a aynen yüklenebilmektedir.
-- Tam otomatik sınırsız TOPLU FATURA yükleme ve onaylama imkanı (v1.4.8 de Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
+- Tam otomatik sınırsız TOPLU FATURA yükleme ve onaylama imkanı (v1.4.9 da Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
 - SATIŞ Faturanızda ÖTV gibi KDV ye tabi ek vergilerin tamamını kullanabilirsiniz. eAsist faturanızı doğru biçimde yükleyecektir.
 - Toplu Fatura- Excel den Aktar seçeneği ile tek tıkla Sınırsız toplu fatura oluşturma ve otomatik yükleme/onaylama (kullanım videosu: https://youtu.be/X_tB9usM9ok )
-- e Asist v1.4.8 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.4.9 dan itibaren 300(üçyüz) firmaya çıkarılacaktır.)
+- e Asist v1.4.9 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.5.0 dan itibaren 300(üçyüz) firmaya çıkarılacaktır.)
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi e ArşivPortal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri Cari kartlarını önceden tanımla-kullan)
@@ -55,7 +55,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 LİSANS HAKKINDA:
 Yayınlanmış tüm versiyonlarımız süre kısıtlı(Trial) versiyonlardır. Kullanımları ücrete tabi değildir.
 Kullanmakta olduğunuz programın Kalan Kullanım Süresini üst menüde "Hakkında" bölümünden görüntüleyebilirsiniz.
-İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.8'in son kullanım tarihi 31/07/2023 olarak planlanmıştır. 
+İlk eAsist sürümü olan v1.0.0 Mart-2022'de yayınlandı. Güncel sürüm olan v1.4.8'in son kullanım tarihi 31/12/2023 olarak planlanmıştır. 
 Yeni yayınlanan her versiyonla birlikte eski kullanıcıların ücretsiz kullanım süreleri uzatılmaktadır.
 eAsist ilk kurulumda KISITLI mod ile kurulur. Bazı özellikleri kısıtlıdır. Serbest hale gelmesi için Ücretsiz Lisans Anahtarı (KEY) isteyiniz.
 Key talebinizi Hakkında menüsünde bulunan form üzerinden bize iletin. Belirteceğiniz e-posta adresine aynı saat içerisinde ücretsiz KEY gönderilmektedir. 
@@ -78,7 +78,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.4.8 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.4.8 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.4.9 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.4.9 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
