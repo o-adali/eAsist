@@ -1,5 +1,5 @@
 
-eAsist 1.4.8 Beta kurulum aşamaları:
+eAsist 1.4.9 Beta kurulum aşamaları:
 
    Kuruluma başlamadan önce sisteminizde şunlar yüklü olmalıdır :
    - WINDOWS 10 veya 11
