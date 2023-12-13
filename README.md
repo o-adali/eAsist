@@ -90,14 +90,13 @@ KULLANIM HAKKINDA:
 
 GÜVENLİĞİNİZ HAKKINDA : 
 
-Kişisel bilgilerinize kesinlikle saygılıyız. eAsist hiç bir zararlı kod içermez, kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Programı indirirken Antivirüs yazılımınızdan ya da Chrome tarayıcınızdan GÜVENLİK UYARISI alabilirsiniz. eAsist programı ticari safhada olmadığından ve MICROSOFT'tan alınması gereken YAYIMCI LİSANSI'mızı (sertifikalar yıllık ücrete tabi olduğu için) henüz almadığımızdan Microsoft tarafından BİLİNMEYEN YAYIMCI olarak adlandırılmaktayız. Yayımcı sertifikamızın olmaması bize güvenilmeyeceği anlamına gelmeyeceği gibi, sertifikalı yayımcıların da tümünün güvenilir olduğu anlamına gelmez. Ancak bir yazılımın ücreti ödenmiş bir sertifikasının olması, antivirüsleri ona karşı sessizleştirir.
-Şeffaflık ilkemizin bir gereği olarak, eAsistUpdate.exe'nin KAYNAK KODLARI'nı yukarıda açıkça yayınlıyoruz. 
-Bazı antivirüslerce tehlikeli bulunan bu uygulamanın kodları incelendiğinde herhangi bir tehlike içermediği, tamamen eAsist klasörlerini ve dosyalarını düzenlemekle ilgilendiği net olarak görülmektedir.
-eAsist uygulamasını kullanmanızın size herhangi bir zararı olmadığını bilmenizi isterim.
+Kişisel bilgilerinize kesinlikle saygılıyız. eAsist hiç bir zararlı kod içermez, kullanıcıların hiç bir verisini kopyalamaz, bizimle veya başkaları ile paylaşmaz. Programı indirirken Antivirüs yazılımınızdan ya da Chrome tarayıcınızdan GÜVENLİK UYARISI alabilirsiniz. Bunun nedeni programın lisanssız oluşudur. MICROSOFT'tan YAYIMCI LİSANSI'mızı henüz almadığımızdan Windows tarafından "BİLİNMEYEN YAYIMCI" uyarısı verilecektir.
+
+eAsist'i kullanmanızın size herhangi bir zararı, bize de herhangi bir yararı olmadığını bilmenizi isterim.
 
 Destek ihtiyacınız olursa lütfen çekinmeden yazın: 
 E-Posta : easistfatura@gmail.com 
 Whatsapp: 0531 037 52 77
 Ayrıca Github logomuzdaki GSM numaramdan bana ulaşabilirsiniz. 
-İşlerinize kolaylık getirmesini diler, saygılar sunarım.
+İşlerinize kolaylık getirmesini dilerim.
 
