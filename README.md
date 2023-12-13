@@ -99,4 +99,5 @@ E-Posta : easistfatura@gmail.com
 Whatsapp: 0531 037 52 77
 Ayrıca Github logomuzdaki GSM numaramdan bana ulaşabilirsiniz. 
 İşlerinize kolaylık getirmesini dilerim.
+Saygılar...
 
