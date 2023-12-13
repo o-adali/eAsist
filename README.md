@@ -1,6 +1,6 @@
 #     eAsist v1.5.0  Fatura düzenleme ve e-Belge yönetim asistanı
 
-      Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...
+      Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...!!!
       
 eAsist'in dağıtımda olan tüm sürümleri Ücretsiz ve deneme sürelidir. Kullanım için kalan sürenizi "Hakkında" menüsünden görüntüleyebilirsiniz. Yeni versiyonlar yayınlandıkça ek kullanım süresi verilmektedir.
          
