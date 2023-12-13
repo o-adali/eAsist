@@ -84,7 +84,7 @@ yapılmaya devam edecektir.
 KULLANIM HAKKINDA:
 
 - Kullanım şekline ait videolara youtube üzerinden ulaşabilirsiniz.  
-  Youtube Kanalımız:    https://www.youtube.com/channel/UC_IbrEDXuD8l9s9dlVRPjcw
+  Youtube Kanalımız:  https://www.youtube.com/channel/UC_IbrEDXuD8l9s9dlVRPjcw
 - Programı çalıştırın TANIMLAR menüsüne tıklayın, açılan EXCEL dosyası(DATA.xlsx) içerisinde kullanım için gerekli açıklamalar bulunmaktadır.
 - Kullanıcı klavuzunu ve ekran görüntülerini inceleyiniz.
 
