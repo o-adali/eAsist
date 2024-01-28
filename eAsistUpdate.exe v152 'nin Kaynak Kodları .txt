@@ -1,0 +1,60 @@
+
+'*************************************************
+'*************************************************
+'*** Project Name    : eAsistUpdate.exe        ***
+'*** Author          : Özcan ADALI             ***
+'*** Contact         : ozcan.adali@yandex.com  ***
+'*** Main Modul Name : eAsist.exe              ***
+'*** Versiyon        : 1.5.2                   ***
+'*** Releasesed Date : 28.01.2024              ***
+'*************************************************
+'*************************************************
+Private Declare Sub Sleep Lib "kernel32" (ByVal dwMilliseconds As Long)
+Private Sub Command1_Click() 'Kapat Butonu
+End
+End Sub
+
+Private Sub Command3_Click() 'Tamam Butonu
+   Dim copyFromStr, copyToStr As String
+   Kill App.Path & "\prgDosyaları\DRIVE.txt"
+   Sleep 300
+     On Error GoTo errHandler
+        Kill App.Path & "\eAsist.exe" 'program klasöründeki eski uygulamayı sil
+          Label1.Caption = "Güncelleme uygulanıyor..."
+            Sleep 300
+               copyFromStr = App.Path & "\prgDosyaları\eAsist.exe"
+                 copyToStr = App.Path & "\eAsist.exe"
+                   FileCopy copyFromStr, copyToStr 'yeni uygulamayı program klasörüne kopyala
+                     Sleep 300
+                Label1.Caption = "Güncelleme başarıyla uygulandı..." & vbNewLine _
+   & "Şimdi lütfen KAPAT'a tıklayın ve Update uygulamasından çıkın." & vbNewLine _
+   & "Daha sonra eAsist'i her zamanki gibi kendi ikonuna tıklayarak başlatın."
+   Kill App.Path & "\prgDosyaları\eAsist.exe"  'indirme klasöründeki gereksiz uygulama dosyasını sil...
+   Command1.Visible = True
+
+   Exit Sub
+errHandler:
+  Label1.Caption = Err.Number & " numaralı hata oluştu. Güncelleme tamamlanmadı ...!"
+  Command1.Visible = True
+End Sub
+Private Sub Form_Load()
+  
+If Dir(App.Path & "\prgDosyaları\DRIVE.txt", vbHidden) <> "" Then
+
+   If Dir(App.Path & "\prgDosyaları\eAsist.exe", vbNormal) <> "" Then 'indirme klasöründe yeni uygulama mevcut ise..
+      Label1.Caption = vbNewLine & " eAsist 'in en güncel versiyonu bilgisayarınıza indirilmiş bulunmaktadır." & vbNewLine _
+        & vbNewLine & " eAsistUpdate program versiyonunu otomatik olarak yükseltecek..."
+          Else
+        Label1.Caption = vbNewLine & " \prgDosyaları\ klasörünüzde güncel eAsist.exe bulunamadı..."
+      Command1.Visible = True
+     Exit Sub
+   End If
+
+  Else
+  
+      MsgBox "Bu program bir güncelleme olduğunda eAsist.exe tarafından otomatik olarak başlatılır." _
+        & "Kullanıcılar tarafından başlatılması uygun değildir. Lütfen eAsist.exe'yi çalıştırın.", vbInformation
+         End
+End If
+
+End Sub
