@@ -1,4 +1,4 @@
-#     eAsist v1.5.2  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.5.3  Fatura düzenleme ve e-Belge yönetim asistanı
 
       Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...!!!
       
@@ -14,12 +14,12 @@ eAsist uygulaması, Windows tabanlı sistemlerde kullanılmak üzere, eArşiv Po
 
 eAsist kullanarak eArşiv Portalına giriş yapmak ve fatura içeriğini portala tuşlamak yerine, faturanızı (müşteri kartından, stok kartından veya Excel'den otomatik veri alarak) hazırlayıp tek tuş ile portala hızlıca yükleyebilir, taslak olarak kaydedip, onaylayabilirsiniz ve gelen EARŞİV faturalarınızı indirebilirsiniz. Gerek kesilen (GİDEN) gerek alınan (GELEN) faturalarınızı çeşitli şekillerde yönetebilirsiniz.
 
-eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek veya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla EARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. Kestiğiniz e Arşiv Faturalarını isterseniz aylık isterseniz tek fatura olarak portaldan indirir.
+eAsist Chrome tarayıcı ile portalda yaptığınız işlemleri sizin yerinize yaparak size zaman kazandırır. eAsist excelden veri çekerek veya stok kartı/müşteri kartı kullanarak fatura hazırlamanıza imkan sağlar ve hazırladığınız faturayı tek tuşla E-ARŞİV PORTALI'na yükler. Gelen faturalarınızı İNTERAKTİF VERGİ DAİRESİ'ne girerek aylık olarak indirir. Kestiğiniz e Arşiv Faturalarını isterseniz aylık isterseniz tek fatura olarak portaldan indirir.
 
 eArşiv Portalı üzerinden düzenlenebilen Fatura türlerinin tamamı desteklenmektedir. Diğer e-belge türleri(eSMM, eMüstahsil vs, gelecek versiyonlarda desteklenecektir.)
 
 eAsist, bilhassa müşterilerinin fatura düzenlemesine destek veren Muhasebe Ofisleri, grup firmalar ve sürekli fatura düzenleyen ve faturası çok satırdan oluşan firmalar için idealdir. 
-v1.5.2 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
+v1.5.3 ile eArşiv Faturalarını düzenlemek, indirmek, iletmek, düzenli biçimde arşivlemek, arşivlenmiş faturalar içerisinde VergiNo/Ünvan/Fatura no/Ay-Yıl gibi kriterlerle arama yaparak istenilen faturalara ulaşmak ve onlarla işlem yapmak son derece basit hale gelmiştir. 
 
 Her portal kullanıcısı firma için DATA.xlsx dosyasında bulunan sütunlara gerekli bilgileri yazmanız yeterlidir.
 (DATA.xlsx dosyası programın Veri Tabanıdır. Adına eArşiv Fatura düzenleyeceğiniz firmalarınızın Vergi Kimlik No, eArşiv Portalı kullanıcı adı ve şifresi ilgili satır ve sütunlara yazılmalıdır.)
@@ -30,7 +30,7 @@ Programın kullanımda olan bazı özellikleri şunlardır:
 - Tam otomatik sınırsız TOPLU FATURA yükleme ve onaylama imkanı (v1.5.2 de Toplu Yükleme sadece SATIŞ ve TEVKİFAT tipindeki eArşiv faturalar için mümkündür)
 - SATIŞ Faturanızda ÖTV gibi KDV ye tabi ek vergilerin tamamını kullanabilirsiniz. eAsist faturanızı doğru biçimde yükleyecektir.
 - Toplu Fatura- Excel den Aktar seçeneği ile tek tıkla Sınırsız toplu fatura oluşturma ve otomatik yükleme/onaylama (kullanım videosu: https://youtu.be/X_tB9usM9ok )
-- e Asist v1.5.2 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.(1.6.0 dan itibaren 300(üçyüz) firmaya çıkarılacaktır.)
+- e Asist v1.5.3 30 (otuz kullanıcı) firmanızın e-Arşiv portal hesaplarını ücretsiz yönetmenize imkan sağlar.
 - Şifre yazmadan linklere tıklamadan fatura/taslak/iptal-itiraz gibi e ArşivPortal sayfalarına tek tıkla doğrudan erişim.
 - Stok kartı yönetimi (Stok kartlarını önceden tanımla-kullan)
 - Müşteri Kartı yönetimi (Müşteri Cari kartlarını önceden tanımla-kullan)
@@ -78,7 +78,7 @@ Kurulum yapılacak bilgisayarda aşağıdaki uygulama sürümleri bulunmalıdır
 
 GÜNCELLEMELER :
 
-v1.5.2 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.5.2 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
+v1.5.3 Otomatik Güncellenmektedir. Eski versiyon kullanıcıları yeni v1.5.3 eAsist.Exe yi ve eAsistUpdate.Exe'yi bu siteden (Github) indirip (masaüstü\eAsist\) klasöründeki yerine kopyalamaları durumunda gelecek güncellemeleri otomatikleşecektir. Bunula beraber Duyurular menüsünde Güncellemelerle ilgili detaylı açıklamalar 
 yapılmaya devam edecektir.
 
 KULLANIM HAKKINDA:
