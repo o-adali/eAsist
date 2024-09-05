@@ -1,4 +1,4 @@
-#     eAsist v1.5.3  Fatura düzenleme ve e-Belge yönetim asistanı
+#     eAsist v1.5.4  Fatura düzenleme ve e-Belge yönetim asistanı
 
       Programı indirmeden önce lütfen bu sayfanın en altındaki GÜVENLİĞİNİZ HAKKINDA bölümünü okuyunuz ...!!!
       
